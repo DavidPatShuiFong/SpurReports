@@ -1,0 +1,28 @@
+---
+title: "Elimisha (Kibera)"
+subtitle: "2022 July to December"
+author: "Spur Afrika (Kenya)"
+format: 
+  PrettyPDF-pdf:
+    keep-tex: true
+---
+
+## Introduction
+
+The Elimisha (Sponsorship) program seeks to promote education among the under privileged (orphaned or in strenuous economic conditions) children in Kibera community. The program aims to educate, empower and engage the children for a sustainable future. Kibera currently has 115 children in the program, 59 girls and 56 boys, 69 Children are in Primary School, 42 in High School, 3 in University and 1 in College. We have 71 students in public schools and 44 in private schools.
+
+## Medical
+
+The medical program's goals are for sponsored children to access better medical care and have better dental health.
+
+### Activities
+
+Doctor's consultations and medication were facilitated by National Health Insurance Fund (NHIF) coverage, supported by finances. Spur Afrika did oral hygiene education with the children and gave them toothbrushes and toothpaste.
+
+### Outcome
+
+Fourteen (14) children got sick, were seen by the doctor and receieved medical attention from the hospital from July to December 2022. More children are brushing their teeth correctly.
+
+### Impact
+
+Sponsored children were able to access better medical care. As the result of more children brushing their teeth correctly, it is expected there will be a decrease in dental problems.
