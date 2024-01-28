@@ -2,10 +2,13 @@
 title: Elimisha Monitoring & Evaluation Report
 subtitle: Second half year summary 2022
 author:
+  author: Nicholas 'Niko' Kengora (Sponsorship program manager)
+  affiliation:
   - name: Spur Afrika Kenya
 format: 
   titlepage-pdf:
     documentclass: scrbook
+    papersize: a4
     classoption: ["oneside", "open=any"]
     number-sections: true
     toc: false

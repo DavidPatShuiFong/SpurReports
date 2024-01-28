@@ -1,15 +1,102 @@
 ---
 title: "Elimisha (Kibera)"
 subtitle: "2022 July to December"
-author: "Spur Afrika (Kenya)"
+author:
+  - name: Nicholas 'Niko' Kengora (Sponsorship program manager)
+    email: info@spurafrika.org
+    affiliation:
+    - name: Spur Afrika Kenya
+      address: Olympic Estate House No. 166, P.O. Box 44473-00100
+      url: www.spurafrika.org
 format: 
   PrettyPDF-pdf:
+    papersize: a4
     keep-tex: true
 ---
 
 ## Introduction
 
 The Elimisha (Sponsorship) program seeks to promote education among the under privileged (orphaned or in strenuous economic conditions) children in Kibera community. The program aims to educate, empower and engage the children for a sustainable future. Kibera currently has 115 children in the program, 59 girls and 56 boys, 69 Children are in Primary School, 42 in High School, 3 in University and 1 in College. We have 71 students in public schools and 44 in private schools.
+
+## School Update
+
+### Activities and Outputs
+
+-   All the fee payments have been done and are up to date for the 115 sponsored children. There is an increase in some of the school fees of the sponsored children.
+
+-   School visits and home visits. We were able to do home visits to 66 families of our sponsored children and most of them were doing well except 23 families that were struggling to have their daily food.
+
+-   Tuition classes
+
+-   Picnic and hot lunch
+
+-   All 115 sponsored children in Primary and Secondary School have received a pair of New shoes (Sneakers) given out in December.
+
+-   All 115 families were given foodstuff worth Ksh. 1500/= each for Christmas.
+
+-   All 115 sponsored children were given gifts for Christmas (the Christmas Love box)
+
+#### Resources and inputs
+
+-   Scholarships
+
+-   Spur Staff & Volunteers
+
+-   Teachers & Mentors
+
+-   Attendance register
+
+-   Finances
+
+    ![Niko (in red) doing a school visit in Kibera](images/School%20Visit%20Niko%202022.jpg){width="100%"}
+
+### Outcomes
+
+-   109 students of the 115 students attended school throughout the school term, 5 students were absent at least two days due to sickness, 1 student missed school for one week due to indiscipline case.
+
+-   Of the 115 students, 44 student’s performance Exceeded above average, 50 Students performed above average and 21 students performed below average. Generally, students in primary school are performing much better than those in high school. We also noted that girl’s performance is better than boys.
+
+## University/College Update
+
+Three students are in University, one graduated in July and one is waiting for graduation next year.
+
+### Impact
+
+-   One student graduated from College in November.
+
+-   All the university students are still giving back to the organization by volunteering their time in Spur Afrika programs.
+
+## Mentorship Update
+
+### Activities and Outputs
+
+-   We had 55 sponsored children attending one-on-one mentorship (average of two meetings per child).
+
+-   We’ve had 9 group mentorship sessions, two with high school students, two with primary school students, 2 with girls only and 2 with boys only.
+
+    -   All 115 children were involved in small group mentorship sessions with a Spur Team Member. Topics of discussion were: gender based Violence, foundation of being a man, abuse, peer pressure, hygiene and Resilience.
+
+-   In November, 29 Elimisha (sponsored) students participated in an online Career fair that was organised by Deloitte Australia.
+
+-   Tuition/remedial classes were held by mentors
+
+![Boys group mentorship day hang out](images/Boys%20Group%20Mentorship%202022.jpg){width="100%" fig-align="center"}
+
+### Outcome and Impact
+
+-   Improved performance e.g. Immaculate and Stacy Mueni.
+
+-   Good behaviour/Character e.g. Bencator
+
+-   The children are more confident when expressing themselves e.g. Benson and Olive.
+
+-   One student successfully graduated from University and one from a technical college.
+
+## School Holiday Programs
+
+We had a picnic/football match with a nearby school called Karama Academy. 
+
+Men’s conference (The man cave 360), and we had attendance of 311 teenagers.
 
 ## Medical
 
@@ -26,3 +113,49 @@ Fourteen (14) children got sick, were seen by the doctor and receieved medical a
 ### Impact
 
 Sponsored children were able to access better medical care. As the result of more children brushing their teeth correctly, it is expected there will be a decrease in dental problems.
+
+## Challenges faced in the last six months
+
+-   We had one indiscipline case from the Spur children.
+
+-   Some of the children (21) need to be more committed and put more effort in their studies.
+
+-   We are still struggling with a few parents (7) who need frequent reminder to perform their parental responsibilities like picking school report cards and attending school meetings etc.
+
+-   Family conflicts between parents (gender based violence) and this affects the children negatively.
+
+-   We had 5 parents who were gossiping (talking ill) about the Spur staffs.
+
+-   Some Parents, about 43, are going through hard economic times and they don’t have stable jobs. 
+
+## Budget update
+
+-   Funds used so far in the last 6 months is **Ksh. 3,500,000** which is approximately **AUS 39,100.** This includes cost of school fees paid in July and September/October; Picnic in September and salaries of workers in-charge of the program
+
+-   The funds utilised so far are more than the projected budget cost due to increase in number of school terms.
+
+## Plans for the next six months
+
+-   Proposed spending in the next 6 months (2023) is **Ksh. 4,500,000**  which is approximately **AUS 57,700 .**  This includes a salary for the worker who is in charge of the program, meetings, and other related costs. 
+
+-   Since the School calendar year is reverting to normal i.e having three school terms, the cost will not be so high compared to the year 2022.
+
+-   Our plan for the first half of the year 2023 will be:
+
+    1.  **School fee payments.**
+
+    2.  **School & Home Visit.**
+
+    3.  **Picnic and or Hot lunch.**
+
+    4.  **Annual performance review of the children.**
+
+    5.  **Group mentorship.**
+
+    6.  **Buying and distribution of school uniforms**
+
+### **Reference**
+
+1.  Elimisha Excel November Update
+
+2.  Mentorship Excel November update
