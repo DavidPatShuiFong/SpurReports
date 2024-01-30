@@ -15,10 +15,10 @@
 \definecolor{highlight}{HTML}{800080}
 \definecolor{dark}{HTML}{330033}
 
-%% Let's add the border on the right hand side 
-\AddToShipoutPicture{% 
-    \AtPageLowerLeft{% 
-        \put(\LenToUnit{\dimexpr\paperwidth-3cm},0){% 
+%% Let's add the border on the right hand side
+\AddToShipoutPicture{%
+    \AtPageLowerLeft{%
+        \put(\LenToUnit{\dimexpr\paperwidth-3cm},0){%
             \color{light}\rule{3cm}{\LenToUnit\paperheight}%
           }%
      }%
@@ -45,14 +45,17 @@
 \subsectionfont{\color{dark}\fontsize{14}{16.8}\selectfont}
 \titleformat{\subsection}
   {\sffamily\Large\bfseries}{\thesection}{1em}{}[{\titlerule[0.8pt]}]
-  
+
 % left align title
 \makeatletter
+
 \renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
 \begin{flushleft}
-  {\sffamily\huge\textbf{\MakeUppercase{\@title}}} \vspace{0.3cm} \newline
+  {\sffamily\huge\textbf{\MakeUppercase{\@title}}} \vspace{0.4cm} \newline
   {\Large {\@subtitle}} \newline
+
   \@author
+
 \end{flushleft}\egroup
 }
 \makeatother

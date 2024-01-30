@@ -1,13 +1,12 @@
 ---
 title: "Elimisha (Kibera)"
-subtitle: "2022 July to December"
+subtitle: "July to December 2022"
 author:
   - name: Nicholas 'Niko' Kengora (Sponsorship program manager)
-    email: info@spurafrika.org
-    affiliation:
-    - name: Spur Afrika Kenya
-      address: Olympic Estate House No. 166, P.O. Box 44473-00100
-      url: www.spurafrika.org
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: www.spurafrika.org
 format: 
   PrettyPDF-pdf:
     papersize: a4
@@ -159,3 +158,13 @@ Sponsored children were able to access better medical care. As the result of mor
 1.  Elimisha Excel November Update
 
 2.  Mentorship Excel November update
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: www.spurafrika.org
