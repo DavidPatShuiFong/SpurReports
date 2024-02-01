@@ -1,0 +1,152 @@
+---
+title: "Elimisha (Kisumu)"
+subtitle: "Monitoring & Evaluation, July to December 2022"
+author:
+  - name: Andrew Onyango (Program manager)
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+## Introduction
+
+The Elimisha (Sponsorship) program seeks to promote education among the under privileged (orphaned or in strenuous economic conditions) children in the Holo community of Kisumu County. The program aims to educate, empower and engage the children for a sustainable future. Currently Kisumu has 20 sponsored children in the program, 11 girls and 9 boys. 16 children are in primary school and 4 in secondary school. We have 19 student sin public schools and 1 in private schools.
+
+## School Update
+
+### Activities and Outputs
+
+-   School fee payment and tuition classes
+
+    -   In July we recruited ten (10) new children into the sponsorship program from eighteen applicants. Currently we have twenty (20) sponsored children.
+
+-   We had a picnic twice with all sponsored children, two staff and two volunteers. We also enjoyed a hot lunch with them. We discussed personal hygiene.
+
+-   We were able to visit all twenty (20) families of sponsored children at least twice at home and nineteen (19) children were visited at school.
+
+#### Resources and inputs
+
+-   Scholarships
+
+-   Academic tutor
+
+-   School attendance register
+
+-   Food preparation (for lunch etc.)
+
+-   Emergency funds
+
+![Andrew doing a performance review for Dorcas at school](images/Kisumu Performance Review 2022.jpg)
+
+### Outcomes
+
+-   Twelve (12) students attended school throughout the term. One (1) student missed school for two days due to indiscipline. Seven (7) students missed school for at least two days due to sickness, mainly malaria.
+
+-   Parents have improved in attending school meetings
+
+-   Increased performance in school and behaviour change among all students were witnessed.
+
+    -   We had thirteen (13) students who performed above average and seven (7) students who performed below average.
+
+### Impact
+
+-   No absenteeism among sponsored children due to lack of school fees or school uniforms
+
+-   Improved behaviour and discipline among the students
+
+## Mentorship Update
+
+### Activities and Outputs
+
+-   Mentorship meetings
+
+    -   All children were involved in both one-to-one and small group mentorship sessions with the Spur Team members. Topics of discussion were: respect to parents and guardians, personal hygiene, HIV/AIDS and sexually transmitted infections.
+
+-   Tuition classes by mentors
+
+![Emily visiting a sponsored child's home](images/Emily home visit 2022 Kisumu.jpg)
+
+## Medical
+
+The medical program's goals are for sponsored children and their families access better medical care and have better dental health.
+
+### Activities
+
+Enabling children to access proper medical care. Nine (9) children were able to access proper medical care.
+
+We held a free medical-checkup where 105 community members and 3 of our sponsored children were examined by doctors and treated for minor ailments.
+
+### Resources
+
+Spur staff and volunteers, doctors, nurses, medication, tooth brushes and tooth paste.
+
+### Outcome
+
+Six (6) sponsored children got sick and received proper medical care from the hospital.
+
+No self-prescription was encountered.
+
+### Impact
+
+Sponsored children were able to access better medical care. As the result of more children brushing their teeth correctly, it is expected there will be a decrease in dental problems.
+
+## Challenges faced in the last six months
+
+-   Some families go through financial hardship that makes them not able to provide basic needs or medical attention to the children.
+
+    -   Some Parents (almost 90%) are still going through hard economic times and they don’t have stable jobs.
+
+    -   Medical cover (NHIF) is a challenge for parents as it is costly to them.
+
+-   We had 1 indiscipline case from the Spur children.
+
+-   Seven children (35%) need to be more committed and put more effort in their studies.
+
+![Emily and Juanita - Spur Afrika picnic](images/Emily picnic Kisumu 2022.jpg)
+
+## Budget update
+
+-   Funds used so far in the last 6 months is **Ksh 581,500** which is approximately **AUS 7,500.** This includes cost of the program workers.
+
+```{=html}
+<!-- -->
+```
+-   The funds for the Program are sufficient and all the costs are within the budget.
+
+## Plans for the next six months
+
+-   Proposed spending in the next 6 months (2023) is **Ksh 600,000** which is approximately **AUS 7,700.** This includes a salary for the worker who is in charge of the program, meetings, and other related costs. Due to the enrolment of 10 new children in April, the total cost of school fees shall go up.
+
+-   Our plan for the first half of the year 2023 will be:
+
+    1.  **Pay for school fees.**
+
+    2.  **Plan for Children picnics**
+
+    3.  **Group mentorship**
+
+    4.  **Review of tracking and evaluation of the children.**
+
+    5.  **Purchase & distribution of school uniforms**
+
+### **Reference**
+
+1.  Elimisha Excel Kisumu
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: www.spurafrika.org

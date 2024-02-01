@@ -1,0 +1,8 @@
+PageLabelBegin
+PageLabelNewIndex: 1
+PageLabelStart: 1
+PageLabelNumStyle: LowercaseRomanNumerals
+PageLabelBegin
+PageLabelNewIndex: 2
+PageLabelStart: 1
+PageLabelNumStyle: DecimalArabicNumerals
