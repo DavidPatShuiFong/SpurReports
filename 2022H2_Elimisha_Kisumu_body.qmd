@@ -16,6 +16,19 @@ format:
     keep-tex: true
 ---
 
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Team building for the 20 sponsored children at Kisumu}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
 ## Introduction
 
 The Elimisha (Sponsorship) program seeks to promote education among the under privileged (orphaned or in strenuous economic conditions) children in the Holo community of Kisumu County. The program aims to educate, empower and engage the children for a sustainable future. Currently Kisumu has 20 sponsored children in the program, 11 girls and 9 boys. 16 children are in primary school and 4 in secondary school. We have 19 student sin public schools and 1 in private schools.
@@ -44,7 +57,7 @@ The Elimisha (Sponsorship) program seeks to promote education among the under pr
 
 -   Emergency funds
 
-![Andrew doing a performance review for Dorcas at school](images/Kisumu Performance Review 2022.jpg)
+![Andrew doing a performance review for Dorcas at school](images/Kisumu%20Performance%20Review%202022.jpg)
 
 ### Outcomes
 
@@ -72,7 +85,7 @@ The Elimisha (Sponsorship) program seeks to promote education among the under pr
 
 -   Tuition classes by mentors
 
-![Emily visiting a sponsored child's home](images/Emily home visit 2022 Kisumu.jpg)
+![Emily visiting a sponsored child's home](images/Emily%20home%20visit%202022%20Kisumu.jpg)
 
 ## Medical
 
@@ -110,15 +123,14 @@ Sponsored children were able to access better medical care. As the result of mor
 
 -   Seven children (35%) need to be more committed and put more effort in their studies.
 
-![Emily and Juanita - Spur Afrika picnic](images/Emily picnic Kisumu 2022.jpg)
+![Emily and Juanita - Spur Afrika picnic](images/Emily%20picnic%20Kisumu%202022.jpg)
 
 ## Budget update
 
 -   Funds used so far in the last 6 months is **Ksh 581,500** which is approximately **AUS 7,500.** This includes cost of the program workers.
 
-```{=html}
 <!-- -->
-```
+
 -   The funds for the Program are sufficient and all the costs are within the budget.
 
 ## Plans for the next six months
