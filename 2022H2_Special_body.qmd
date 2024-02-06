@@ -1,0 +1,104 @@
+---
+title: "Special Programs (Kibera)"
+subtitle: "Monitoring & Evaluation, July to December 2022"
+author:
+  - name: Spur Afrika
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Happy faces as children from Fairview Primary School perform a dance}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+## RI-KI (Read It Know it)
+
+RI-KI is an inter-school competition in speech writing, choral verses and trivia questions that helps us connect with the schools in the community.
+
+RI-KI's objective is to build a reading culture. This season, traditional dance was incorporated into the program as part of the competition with the intent to celebrate the different Kenyan and African cultures.
+
+### Activities and Outputs
+
+-   During the second half of the year, the competition took place in the months of August and November.
+
+-   On August, 6 schools (200 people, including their respective teachers) took part in the competition with KAG Primary School being the hosts. The competition comprised of Traditional Dance and Choral Verse. The theme for the event was “peace” and was a good reminder of the peaceful elections we had just had. During the competition, some children gave modern dance and singing performances.\
+    \
+    The winners were Joysprings (third place), Fairview (second place) and Tuamini Schools (first place). They all received trophies and gifts to take back to school.
+
+![Tumaini Hope Centre (the winning school) with the Spur Team](images/2022H2 Riki WinningTeam.jpg)
+
+-   On November, 7 schools came (350 people including their respective teachers) and they took part in the competition with KAG Primary School being the hosts. The competition consisted of traditional dances and choral verses, and the theme was “celebration”. Children were able to showcase their talents in dance, speech writing and music.
+
+#### Resources and inputs
+
+-   In both competitions, 3 neutral (not affiliated to the schools in any way) judges, volunteers and Spur staff helped run the event. Their responsibilities were to ensure smooth running of the event, including the arrivals, coordination, judging and awarding of gifts.
+
+![Hilda, a judge during RI-KI](images/2022H2 Riki Judge.jpg)
+
+### Outcomes and Impact
+
+Taking a break from their busy school schedule, the students celebrated African culture and learnt about different cultures in an exciting new way by how they danced or dressed. Students practiced their talents in the arts and built confidence in their public speaking skills.
+
+![KAG students prepared to perform their traditional dance during RI-KI](images/2022H2 Riki KAG.jpg)
+
+## NHIF (National Hospital Insurance Fund)
+
+This is a government medical insurance coverage project which aims to ensure that every person in every household with a Spur Afrika Sponsee receives full medical cover.
+
+### Activity and Output
+
+-   Spur is able to facilitate this by assisting the parents/guardians cover part of the payments for the NHIF. The NHIF insurance assists in covering part of the medical fees for hospital outpatient appointments and hospital admissions.
+
+-   A representative from the NHIF government office spoke to 115 Spur parents and held a Q&A session thereafter. The hope is that more people will keep NHIF coverage and continue to use the NHIF when they are sick and receive necessary medical attention.
+
+### Outcome
+
+The children, parents or siblings of the Spur sponsored children who visited the hospital and used the NHIF card are around 10 in number. They are in good condition after seeking the required medical attention, which would have been more expensive without NHIF cover.
+
+## Challenges faced in the last six months
+
+-   The school calendar has been tight and has caused many programs to occur at the same time, thus limiting operations and allowable time for activities.
+
+-   The election period and the associated uncertainty affected many operations and movements, thus limiting full community participation in activities.
+
+## Budget update
+
+-   The funds used in the special Programs was **Ksh.** **625,000 (AUD 8,000)**. The allocated funds were sufficient to run the program.
+
+-   The projected costs for the next 6 months is, **Ksh. 650,000 (AUD 8,300).** The costs include salary of the Spur worker in charge of the program.
+
+## Plans for the next six months
+
+-   Medical camp to be held at KAG school with participation of over 600 children
+
+-   Oral Hygiene – targeting 15 schools in Nairobi and 10 in Kisumu.
+
+![The Spur Afrika team during the RI-KI competition](images/2022H2 Riki SpurTeam.jpg)
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: www.spurafrika.org
