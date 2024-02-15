@@ -1,0 +1,108 @@
+---
+title: "Special Programs (Kisumu)"
+subtitle: "Monitoring & Evaluation, July to December 2022"
+author:
+  - name: Andrew Onyango
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Andrew with students during school mentorship}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+## Kinda Girls Program (school-age mothers)
+
+Kinda Girls program is designed to offer a safe environment for young mothers (mostly teenagers) and empower them to reach their full potential. The name *‘Kinda Girls’* is a Luo word meaning *‘Working hard without giving up’*. The name was chosen as a reflection of what the program is meant to achieve. The program is tailored towards addressing stigma and giving hope to the young teenage mothers who become pregnant and mothers while still in school
+
+### Activities and Outputs
+
+26 girls applied the training sessions. Nineteen (19) participated, completed and graduated from the training sessions, receiving a Spur certificate.
+
+The following topics were undertaken in the last six months: 
+
+-   Listening exercises
+
+    -   Understanding issues leading to teenage pregnancies.
+
+    -   Hearing the needs and aspirations of adolescent girls (group and one on one sessions).
+
+    -   Exploring challenges faced by young mothers.
+
+-   Teaching about sexual and Reproductive Health, gender-based Violence, interpersonal Communication skills, self-esteem, priority setting and accountability.
+
+-   Developing skills for economic development: Teaching to make Liquid soap, bleaching detergent, fabric softener, food preparation.
+
+-   Counselling and one-on-one mentorship
+
+![Kinda girls: young mothers having their certificates after graduating from the program](images/2022H2 Kinda Girls.jpg)
+
+#### Resources and inputs
+
+-   Spur staff, resources (funds), training facilitators and mentors.
+
+### Outcomes and Impact
+
+Sixteen (16) young mothers who graduated are now using the skills they learnt and are now making soap to sell and for home use. One teenage mother went back to technical college to train to be a motor vehicle mechanic.
+
+![Products (soap) that Kinda girls made during training](images/2022H2 Kinda Soap.jpg)
+
+## Mentorship Programs
+
+### School mentorship sessions
+
+Goal: Improving school participation and attendance
+
+#### Activity and Output
+
+-   Two sessions were conducted in Gombe secondary School and three at Ochok Kadongo primary school.
+
+-   About 279 Students were in attendance.
+
+-   The topics covered throughout the school term were: importance of working hard, menstrual hygiene and self-awareness.
+
+-   All the female students in attendance received a sanitary pack. All males received an undergarment.
+
+### Outcome and Impact
+
+The program is expected to change attitudes to schooling among students. The program aims to reduce or eliminate school absenteeism among girls due to lack of sanitary towels while experiencing their menstrual cycle.
+
+Weekend mentorship sessions
+
+## Challenges faced in the last six months
+
+## Budget update
+
+## Plans for the next six months
+
+## Editor
+
+Dr. David P.S. Fong
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)
