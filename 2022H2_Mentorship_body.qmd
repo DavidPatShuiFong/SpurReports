@@ -1,0 +1,174 @@
+---
+title: "Mentorship (Kibera)"
+subtitle: "Monitoring & Evaluation, July to December 2022"
+author:
+  - name: Maureen Koli
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Mentors in a team-building activity}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+## Introduction
+
+Spur Afrika’s Mentorship Program is an offshoot of the Child Sponsorship Program. The program’s main aim is to help children (115 children) develop social skills, have a wider world view regarding future job opportunities, character, and spiritual formation. The mentorship is a one-on-one interaction between a sponsored child and a responsible adult who preferably is a mature Christian. This positive nurturing is part of Spur Afrika’s objective towards transforming lives.
+
+![Ernest meeting with his mentor, Gedeon](images/2022H2%20Mentorship%20session%201.jpg)
+
+## Activities and Outputs
+
+1.  **One-on-One Mentorship Meetings**
+
+    -   In the second half of the year, more mentorship sessions happened. 60 students (2 meetings per student) met their mentees in one-on-one meetings between June and December with most meetings happening in August.
+
+    -   The mentorship sessions were held at the Spur centre and outdoors.
+
+    -   Three mentors hosted their mentees in their houses for a few days for a change of environment.
+
+2.  **Group Mentorship**
+
+    -   Eight group mentorship meetings were held at the Spur centre (2 for high school students, 2 for primary school students, 2 girls only and 2 boys only).
+
+3.  **Career Mentorship**
+
+    -   One online career mentorship happened in November with Deloitte group in Australia. 
+
+    -   Twenty-nine students had a chance to interact with different professionals asking questions concerning different career choices.
+
+4.  **Mentors Appreciation and Support**
+
+    -   Spur Afrika held two mentorship events that helped motivate the mentors.
+
+        -   In August we had one hike with 32 mentors at Karura Forest and a BBQ in November with 35 mentors. 
+
+        -   Five new people in attendance signed up for mentorship through participation in the mentors activities.
+
+5.  **Christmas Love Box**
+
+    -   25 Mentors participated in the Christmas love box, through donations and gift box preparations.
+
+![Mentor Nekesa delivering her love boxes](images/2022H2%20Mentorship%20love%20boxes.jpg)
+
+#### Resources and inputs
+
+-   Mentors
+
+    -   At the beginning of the year, we had 58 volunteer mentors commit through our annual agreement form. However, along the way two mentors asked to take a break.
+
+-   Time
+
+-   Finance 
+
+-   Spur Afrika staff 
+
+-   Spur Afrika sponsored students
+
+-   Incentives
+
+-   Partnership with Deloitte
+
+-   Venues
+
+![Our high school students during a career fair with Deloitte](images/2022H2%20Mentorship%20Deloitte.jpg)
+
+## Outcomes and Impacts
+
+-   Improved strategies for dealing personal issues.
+
+    -   Reduced family conflicts
+
+-   Improved self-awareness among Spur students
+
+    -   Better career judgement
+
+-   Spiritual and leadership growth
+
+    -   Five students who finished high school this year got more involved with Spur Afrika activities. They have also set good example to other younger students.
+
+-   Increased performance among mentees
+
+    -   e.g. Mitchel’s mentee, Immaculate, greatly improved in academics. She has become more confident in how she interacts with her peers.
+
+    -   The children are more confident when expressing themselves and their use of language is better (Kenyatta, Omuse, Levy, Faridah, Tina, Nilla, Samuel, and many others in high school).
+
+-   More students enrolled into university or college
+
+    -   One student successfully graduated from University (Elvis and one from a technical college (Emmanuel) 
+
+-   The mentorship-mentee gap is slowly closing up; however, some mentors might take break.
+
+![Grace meeting her mentee, Tina](images/2022H2%20Mentorship%20session%202.jpg)
+
+## Challenges faced in the last six months
+
+-   Only a half of mentors attended for the social gatherings (mentors hike and barbeque).
+
+-   Starting new mentorship-mentee relationships can sometimes be difficult.
+
+<!-- -->
+
+-   Tight school schedules have made it hard for mentors to meet their mentees regularly even if they wanted to.
+
+## Budget update
+
+-   Funds used so far in the last 6 months is **Ksh. 548,320 (AUD 7,029)**.This includes cost of the worker in-charge of the program
+
+<!-- -->
+
+-   The funds for the Program are sufficient and all the costs are within the budget.
+
+## Plans for 2023
+
+-   Continue drumming up for more volunteer mentors.
+
+-   Encourage mentors to consider mentoring more than one child.
+
+-   Encourage mentors to continue awarding their mentee when they do something remarkable.
+
+-   Encourage online mentorship for mentors who seem busy.
+
+-   Make mentorship groups intentional and invite mentors to join. We can teach students practical skills which might help them in future.
+
+-   Continue with mentors’ reward system to appreciate mentors who are doing an excellent job.
+
+-   Encourage mentors to visit their mentees’ homes to relate well.
+
+-   Have more outdoor and interactive events/activities for mentors.
+
+-   Follow up on mentorship topics in the files.
+
+![Mentors during a BBQ](images/2022H2%20Mentorship%20BBQ.jpg)
+
+## Editor
+
+David Fong
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)

@@ -43,11 +43,11 @@ The following topics were undertaken in the last six months: 
 
     -   Understanding issues leading to teenage pregnancies.
 
-    -   Hearing the needs and aspirations of adolescent girls (group and one on one sessions).
+    -   Hearing the needs and aspirations of adolescent girls (group and one-on-one sessions).
 
     -   Exploring challenges faced by young mothers.
 
--   Teaching about sexual and Reproductive Health, gender-based Violence, interpersonal Communication skills, self-esteem, priority setting and accountability.
+-   Teaching about sexual and reproductive Health, gender-based violence, interpersonal communication skills, self-esteem, priority setting and accountability.
 
 -   Developing skills for economic development: Teaching to make Liquid soap, bleaching detergent, fabric softener, food preparation.
 
@@ -89,13 +89,13 @@ Goal: Improving school participation and attendance
 
 #### Outcome and Impact
 
-The program is expected to change attitudes to schooling among students. The program aims to reduce or eliminate school absenteeism among girls due to lack of sanitary towels while experiencing their menstrual cycle.
+The program is expected to change attitudes to schooling among students. The program aims to reduce or eliminate school absenteeism among girls due to lack of sanitary towels when experiencing their menstrual cycle.
 
-![Emily facilitates a group mentorship session for adolescent girls](images/2022H2 Kisumu Emily mentorship.jpg)
+![Emily facilitates a group mentorship session for adolescent girls](images/2022H2%20Kisumu%20Emily%20mentorship.jpg)
 
 ### Weekend mentorship sessions
 
-The weekend mentorship sessions goals are for children to be more confident have higher self-esteem. By providing alternative and useful activities, the program aims to have less children engaged in weekend work activities such as breaking ballast.
+The weekend mentorship sessions goals are for children to be more confident have higher self-esteem. By providing alternative and useful activities, the program aims to reduce the number of children engaged in menial weekend work activities such as breaking ballast.
 
 #### Activity and output
 
@@ -141,10 +141,9 @@ The program has reached out to our 20 sponsored children.
 
     -   Children changed from using ash & salt and are now using toothpaste and toothbrush.
 
-```{=html}
 <!-- -->
-```
--   No report on Dental problems received from our sponsored children.
+
+-   No report on dental problems received from our sponsored children.
 
 -   Spur Afrika is known more to other students and in the larger community because of the program.
 
@@ -168,7 +167,7 @@ The program was limited to the sponsored children. Due to shortage of toothpaste
 
 -   Medicines
 
-![An old lady explains - with the help of Sue - her problems to the doctor during the free community medical camp in Kisumu](images/2022H2 Kisumu Sue medical camp.jpg)
+![An old lady explains - with the help of Sue - her problems to the doctor during the free community medical camp in Kisumu](images/2022H2%20Kisumu%20Sue%20medical%20camp.jpg)
 
 ### Outputs
 
@@ -196,7 +195,9 @@ Our partners are still struggling to keep time and this affects the operations o
 
 -   The Special programs budget for the next 6 months (2023) is expected to increase (Ksh. 320,000. AUD 4,100) to cover the costs of holding a teenage mothers skill development training.
 
-## Editor
+## Editors
+
+Kathy Zhang
 
 Dr. David P.S. Fong
 
