@@ -1,0 +1,112 @@
+---
+title: "Elimisha (Kibera)"
+subtitle: "Monitoring & Evaluation, JJanuary to June 2023"
+author:
+  - name: Nicholas 'Niko' Kengora (Sponsorship program manager)
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Catch-up with Adelbert, his father and one of the volunteers during a school visit}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+## Introduction
+
+The Elimisha (Sponsorship) program seeks to promote education among the under privileged (orphaned or in strenuous economic conditions) children in Kibera community. The program aims to educate, empower and engage the children for a sustainable future. Kibera currently has 117 children in the program, 60 girls and 57 boys, 51 Children are in Primary School, 55 in High School, 4 in University and 7 in College. We have 86 students in public schools and 31 in private schools.
+
+## School Update
+
+### Activities and Outputs
+
+-   All the fee payments have been done up to date. There has been an increase in some of the school fees, especially the grade 7 students.
+
+-   71 families of the sponsored children were visited in the last six months and most of them were doing well other than the hard-economic time they are going through.
+
+-   All sponsored children in Primary and Secondary School have received a set of New school uniforms given out in April.
+
+-   Tuition classes
+
+-   Picnic and hot lunch
+
+-   All 115 families were given foodstuff worth Ksh. 1500/= each for Christmas.
+
+-   All 115 sponsored children were given gifts for Christmas (the Christmas Love box)
+
+#### Resources and inputs
+
+### Outcomes
+
+-   There is a high rate in school attendance i.e. 93.2%
+
+-   Of the 117 students, 87 students (74%) performed above average and 29 students performed below average. One Students did not do the exams due to an indiscipline case.
+
+-   Eighteen grade 8 students graduated to high school.
+
+-   Five students successfully completed high school now they are waiting to join university/college.
+
+## University/College Update
+
+### Impact
+
+## Mentorship Update
+
+### Activities and Outputs
+
+### Outcome and Impact
+
+## School Holiday Programs
+
+-   We had two picnics at Rowerland scouts camp in January and April during the school breaks.
+
+-   We had one Hot Lunch at the Spur Afrika centre with 102 of our sponsored children.
+
+## Medical
+
+### Activities
+
+### Outcome
+
+### Impact
+
+## Challenges faced in the last six months
+
+ 
+
+## Budget update
+
+## Plans for the next six months
+
+### **Reference**
+
+## Editor
+
+Dr. David Fong
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)
