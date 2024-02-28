@@ -6,7 +6,7 @@ author:
     affiliations:
       - name: Spur Afrika Kenya
         address: Olympic Estate House No. 166, P.O. Box 44473-00100
-        url: www.spurafrika.org
+        url: https://www.spurafrika.org
 format:
   html: 
     theme: cosmo
@@ -21,7 +21,7 @@ format:
   \fancyhf{}
   \renewcommand\headrulewidth{0pt}
   \fancyfoot[R]{\thepage}
-  \fancyfoot[C]{\em{Cover picture : Niko (sponsorship manager) having a catch-up with Sofia Mustafa at a school in Kibera}}
+  \fancyfoot[C]{\em{Cover picture : Niko (sponsorship manager) having a catch-up with a sponsored student at a school in Kibera}}
   \fancyfootoffset{3.5cm}
 }
 \thispagestyle{myCoverStyle}
@@ -99,11 +99,11 @@ Three students are in University, one graduated in July and one is waiting for g
 
 ### Outcome and Impact
 
--   Improved performance e.g. Immaculate and Stacy Mueni.
+-   Improved performance e.g. *I* and *S*.
 
--   Good behaviour/Character e.g. Bencator
+-   Good behaviour/Character e.g. *B*
 
--   The children are more confident when expressing themselves e.g. Benson and Olive.
+-   The children are more confident when expressing themselves e.g. *B* and *O*.
 
 -   One student successfully graduated from University and one from a technical college.
 

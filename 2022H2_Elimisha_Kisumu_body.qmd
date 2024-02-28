@@ -6,7 +6,7 @@ author:
     affiliations:
       - name: Spur Afrika Kenya
         address: Olympic Estate House No. 166, P.O. Box 44473-00100
-        url: www.spurafrika.org
+        url: https://www.spurafrika.org
 format:
   html: 
     theme: cosmo
@@ -57,7 +57,7 @@ The Elimisha (Sponsorship) program seeks to promote education among the under pr
 
 -   Emergency funds
 
-![Andrew doing a performance review for Dorcas at school](images/Kisumu%20Performance%20Review%202022.jpg)
+![Andrew doing a performance review for a sponsored student at school](images/Kisumu%20Performance%20Review%202022.jpg)
 
 ### Outcomes
 
@@ -123,7 +123,7 @@ Sponsored children were able to access better medical care. As the result of mor
 
 -   Seven children (35%) need to be more committed and put more effort in their studies.
 
-![Emily and Juanita - Spur Afrika picnic](images/Emily%20picnic%20Kisumu%202022.jpg)
+![Emily and a sponsored student - Spur Afrika picnic](images/Emily%20picnic%20Kisumu%202022.jpg)
 
 ## Budget update
 
