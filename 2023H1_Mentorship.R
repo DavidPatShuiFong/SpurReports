@@ -2,28 +2,79 @@
 library(quarto)
 library(pdftools)
 library(fs)
+library(stringr)
+
+file_name <- "2023H1_Mentorship"
+file_cover <- paste0(file_name, "_cover") # cover
+file_body <- paste0(file_name, "_body") # body
 
 # render
-quarto_render( "2023H1_Mentorship_cover.qmd", output_format = "titlepage-pdf")
-quarto_render( "2023H1_Mentorship_body.qmd", output_format = "PrettyPDF-pdf")
+quarto_render(paste0(file_cover,".qmd"), output_format = "titlepage-pdf")
+quarto_render(paste0(file_body,".qmd"), output_format = "PrettyPDF-pdf")
 
 tmp_pdf_filename <- file_temp(ext = "pdf")
 
 # combine
 pdf_combine(
-  c("2023H1_Mentorship_cover.pdf", "2023H1_Mentorship_body.pdf"),
+  c(paste0(file_cover,".pdf"), paste0(file_body,".pdf")),
   output = tmp_pdf_filename
+  )
+
+# retrieve metadata from the 'body' PDF
+# including Info (creator, author, title etc.)
+# and also the Bookmarks
+tmp_meta_filename <- file_temp(ext = ".txt")
+tmp_meta2_filename <- file_temp(ext = ".txt")
+system(
+  paste(
+    "pdftk",
+    paste0(file_body,".pdf"),
+    "dump_data",
+    "output",
+    tmp_meta_filename
+  )
+)
+
+add_one_to_number <- function(strings, start_characters) {
+  # add one to the number at the end of the string if it starts with certain characters
+  # find indices of strings that start with specified characters, and ends with a number
+  indices <- grep(paste0("^", start_characters, ".*\\d+$"), strings)
+
+  for (i in indices) {
+    # find the number at the end of the string
+    # 'back-reference' to the match with '\\1'
+    pagenumber <- as.numeric(gsub(".*?(\\d+)$","\\1", strings[i]))
+    pagenumber <- pagenumber + 1
+    # replace just the pagenumber with the updated pagenumber
+    strings[i] <- gsub("\\d+$", as.character(pagenumber), strings[i])
+  }
+
+  return(strings)
+}
+
+scan(tmp_meta_filename, what = character(), sep = '\n') |>
+  str_subset("^Info|^Bookmark") |>
+  add_one_to_number("BookmarkPageNumber")
+  # filter strings starting with 'Info' or 'Bookmark'
+  append(scan("pagerenumbering_metadata.txt", what = character(), sep = "\n")) |>
+  write(
+    file = tmp_meta2_filename,
+    append = FALSE,
+    sep = "\n"
   )
 
 # renumber pages
 # first page (the cover page) is 'i', and second page is '1'
 # note that page numbers are shown correctly in evince and WPS,
 # but not programs like okular
+# and add information and bookmarks
 system(
   paste(
     "pdftk",
     tmp_pdf_filename,
-    "update_info pagerenumbering_metadata.txt",
-    "output 2023H1_Mentorship.pdf"
+    "update_info",
+    tmp_meta2_filename,
+    "output",
+    paste0(file_name, ".pdf")
   )
 )
