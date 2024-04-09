@@ -1,0 +1,150 @@
+---
+title: "Special Programs (Kibera)"
+subtitle: "Monitoring & Evaluation, January to June 2023"
+author:
+  - name: Sylvia Kenda Agwona
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: https://www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Student from Olympic Junior School receives a Tooth Defender Certificate}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+## Oral hygiene
+
+Oral Hygiene is a program in Spur whereby children from schools in Kibera and Kisumu are taught how to brush their teeth and mitigate the need for dental visits. The children each receive a toothbrush and toothpaste to take home. Spur Afrika ventures to have the program in both the Kibera Slum in Nairobi and Holo Village in Kisumu.
+
+### Activity and Output
+
+-   Spur Afrika held an Oral Hygiene Health week where 11 schools were visited with a total of 10,000 students and teachers and support staff benefiting both in Kibera and Kisumu.
+
+    ![Oral hygiene session at Langatta West Primary School](images/2023H1 Special Oral Hygiene.jpg){width="70%"}
+
+-   Junior High students were chosen as the Colgate Tooth Brushing Ambassador and they all received a certificate to label them as a Tooth Defender Champion. The purpose is for them to represent the rest of the school and share what they have been taught with the rest of the school.
+
+-   The students received a brush and a tooth paste to take home as well as a flier to remind them the steps to take when brushing their teeth.
+
+### Outcome and Impact
+
+-   The students learnt how to be tooth defenders and not just stay with the knowledge about brushing their teeth correctly but to share widely to the people close to them and even their schoolmates.
+
+-   The schools were very appreciative, and they hope to keep engaging with Spur Afrika as well as the community in making a positive difference in terms of Oral Hygiene.
+
+## Msingi (BAM)
+
+Msingi or BAM (Business as Missions) is a business training program whereby people in business from the community receive training on skills like marketing, keeping books of accounting, writing a business plan and communication with their customers in a Christian way.
+
+### Activities and Outputs
+
+-   The Business training was in three phases in the months of April, May, and June.
+
+    ![Visit by Sue and Sylvia to the business of a BAM student](images/2023H1 Special BAM 1.jpg)
+
+-   The 1st phase, in April, had 15 people in attendance, 2nd and 3rd phase (May and June) had 12 people attending the trainings.
+
+-   During the first phase, three business coaches were present to teach the class. The second phase had four coaches, giving lessons on finance specifically on the individual businesses. The third phase had one coach (who presented online they were unfortunately not able to attend in person due to visa issues). The coach taught about Marketing and compartmentalization of finances.
+
+-   The students learnt how to prepare a business plan based on their individual business. The students also realized that they can buy things from each other and promote each other’s businesses.
+
+    ![Class group presentations during BAM](images/2023H1 Special BAM 2.jpg)
+
+-   After the phase three, the students had a small graduation where they received a certificate for the participation in BAM.
+
+### Outcomes and Impact
+
+The students built a community network with each other where they can get their business stock and derive encouragement to do business.
+
+The students have developed skill to do a good business, improving the opportunity for success and profitability.
+
+## Medical Camp
+
+In Kenya, medical infrastructure is limited in rural areas and some informal settings like Kibera. Medical clinics may lack basic equipment (e.g. to measure blood pressure/sugars) and just 30% of Kenyans can afford to have insurance. Free medical camps cater for this 70% of the population that have a hard time raising funds for hospital and will also not be able to access a good hospital for that matter.
+
+Once a year, Spur Afrika holds Medical Camps in the Kibera community where children (and some adults) from the community receive free medical check-ups and given medication for free if need be. This year, we had the camp in January before the students resumed the school session causing minimal turn-up.
+
+### Activities and Outputs
+
+From the Medical Camp, a little over 500 people saw a Doctor and received an anthelmintic to assist in deworming.
+
+-   There were people from St. Juliet Education Centre on Monday, KAG Education Centre on Tuesday and Tumaini Hope centre on Thursday. The children sponsored by Spur Afrika came in on Friday. 
+
+-   Every person seen received de-worming medicine which is helpful in maintaining a healthy lifestyle. Those with more issues were given medicine to take home or referred to a nearby partner clinic.
+
+-   Most of the ailments treated were coughs and headaches.
+
+![Spur Afrika parent receives free medical advice during the medical camp](images/2023H1 Special Clinic 1.jpg)
+
+#### Resources
+
+-   There were 7 doctors present each day for 3 days – 2 dentists and 5 general practitioners, 4 nurses and around 15 volunteers together with the 7 Spur team members.
+
+-   The event took place at KAG Church premises with stations set for every doctor and nurse available. The dentists had a sanitary station where they extracted teeth if need be.
+
+![Dr Simiyu (Kenya) and Dr David (Australia) see a child](images/2023H1 Special Clinic 2.jpg){width="70%"}
+
+### Outcomes and Impact
+
+The people seen were very happy to be seen at the clinic, since medical help has been expensive to afford.
+
+The care provided at the clinic helps both children and adults to live a healthy life without major illness.
+
+## Challenges faced in the last six months
+
+-   Delay in government permits, causing delay in programs like Ri-Ki (Read It, Know It reading program).
+
+-   Government and Opposition Clashes causing weekly chaos and minimal and restricted movements.
+
+## Budget update
+
+-   Funds used so far in the last 6 months is **Ksh. 290,000** (approximately **AUD 2,900**).This includes cost of Ri-Ki competitions and other facilitation costs of Oral Hygiene.
+
+-   Some of the resources needed toward Coding Program were donated (Computers)
+
+-   Toothpaste and brushes were donated from Colgate Kenya.
+
+-   The funds utilised so far are within the budget.
+
+The allocated budget for the next six month is **Ksh. 300,000** (**AUD 3,000**). This will cover the cost of running all the second phases of all the activities under Ri-Ki and Coding Program.
+
+![Students and Msingi (Business As Missions) staff members](images/2023H1 Special BAM 3.jpg)
+
+## Plans for the next six months
+
+-   Coding training program
+
+-   Second phase of Ri-Ki (Read It, Know It) program
+
+## Editors
+
+Dr. David Fong (Monitoring, Evaluation and Learning)
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)
+
+![Graduation photo for BAM students](images/2023H1 Special BAM 4.jpg){fig-align="center"}

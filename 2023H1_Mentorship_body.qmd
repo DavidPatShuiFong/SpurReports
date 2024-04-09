@@ -21,7 +21,7 @@ format:
   \fancyhf{}
   \renewcommand\headrulewidth{0pt}
   \fancyfoot[R]{\thepage}
-  \fancyfoot[C]{\em{Cover picture : Mentors in a team-building activity}}
+  \fancyfoot[C]{\em{Cover picture : One-on-one mentoring}}
   \fancyfootoffset{3.5cm}
 }
 \thispagestyle{myCoverStyle}
@@ -35,7 +35,7 @@ Spur Afrika’s Mentorship Program is a complementing program to Elimisha Progra
 
 As we end the first half of 2023, our Mentorship Program has experienced significant growth and progress. Building on the foundations laid in the previous year, we are proud to share the positive developments that have taken place.
 
-![](images/2023H1 Mentorship one-on-one C.jpg){fig-align="center"}
+![](images/2023H1%20Mentorship%20one-on-one%20C.jpg){fig-align="center"}
 
 ## Activities and Outputs
 
@@ -43,7 +43,7 @@ As we end the first half of 2023, our Mentorship Program has experienced signifi
 
     -   55 sponsored children met their mentees in one-on-one meetings (107 sessions) between January and June. Most meetings happened in January (26), March (25) and May (22).
 
-        ![](images/2023H1 Mentorship one-on-one A.jpg)
+        ![](images/2023H1%20Mentorship%20one-on-one%20A.jpg)
 
     -   The mentorship sessions were held at the Spur centre and outdoors.
 
@@ -57,7 +57,7 @@ As we end the first half of 2023, our Mentorship Program has experienced signifi
 
         -   This was amazing for the sponsored students to know each other and to also exchange idea on how to manage stress.
 
-        ![](images/2023H1 Mentorship group B.jpg)
+        ![](images/2023H1%20Mentorship%20group%20B.jpg)
 
 3.  **2023 ex-Class Eight crossover 101 Mentorship Sessions**
 
@@ -67,13 +67,13 @@ As we end the first half of 2023, our Mentorship Program has experienced signifi
 
     -   They then graduated and received certificates of participation during a hike at Mt. Longonot.
 
-        ![](images/2023H1 Mentorship group A.jpg)
+        ![](images/2023H1%20Mentorship%20group%20A.jpg)
 
 4.  **Career Mentorship**
 
     -   We had career mentorship sessions with our sponsored students who finished their high school level last year. The sessions were meant to help them make profound career choices and to also challenge them to consider mentoring their young counterparts.
 
-        ![](images/2023H1 Mentorship online C.jpg)
+        ![](images/2023H1%20Mentorship%20online%20C.jpg)
 
 5.  **Counselling**
 
@@ -81,7 +81,7 @@ As we end the first half of 2023, our Mentorship Program has experienced signifi
 
     -   The above sessions were conducted by our two volunteer counsellors (Mrs. Gaceri Baabu and Collins Odede).
 
-        ![](images/2023H1 Mentorship online A.jpg)
+        ![](images/2023H1%20Mentorship%20online%20A.jpg)
 
 6.  **Mentor Training and Support**
 
@@ -89,13 +89,13 @@ As we end the first half of 2023, our Mentorship Program has experienced signifi
 
     The training assisted them in their communication flow, icebreakers and problem-solving skills.
 
-    ![](images/2023H1 Mentorship mentors A.jpg)
+    ![](images/2023H1%20Mentorship%20mentors%20A.jpg)
 
     There was an improved attendance among mentors (43 out of 58 and 44 out of 69) in the two mentors’ events that happened between January and July.
 
     The training not only attracted the attention of committed mentors but also drew in a wave of new volunteers eager to contribute to our cause. We also had a team building activity with our volunteer mentors in June. The two events welcomed a total of 11 new mentors, bringing the current count of dedicated volunteer mentors to an inspiring total of 69.
 
-    ![](images/2023H1 Mentorship mentors C.jpg)
+    ![](images/2023H1%20Mentorship%20mentors%20C.jpg)
 
 #### Resources and inputs
 
@@ -109,7 +109,7 @@ As we end the first half of 2023, our Mentorship Program has experienced signifi
 
 -   Board games
 
-![](images/2023H1 Mentorship online B.jpg){fig-align="center"}
+![](images/2023H1%20Mentorship%20online%20B.jpg){fig-align="center"}
 
 -   Spur Afrika staff 
 
@@ -161,7 +161,7 @@ As we end the first half of 2023, our Mentorship Program has experienced signifi
 
 -   The current hard economic situation is affecting mentors in business, some have lost their jobs which can eventually affect their mentorship capacity.
 
-    ![](images/2023H1 Mentorship group C.jpg)
+    ![](images/2023H1%20Mentorship%20group%20C.jpg)
 
 ## Budget update
 
