@@ -23,15 +23,15 @@ pdf_combine(
 # retrieve metadata from the 'body' PDF
 # including Info (creator, author, title etc.)
 # and also the Bookmarks
-tmp_meta_filename <- file_temp(ext = ".txt")
-tmp_meta2_filename <- file_temp(ext = ".txt")
+tmp_meta_in_filename <- file_temp(ext = ".txt")
+tmp_meta_out_filename <- file_temp(ext = ".txt")
 system(
   paste(
     "pdftk",
     paste0(file_body,".pdf"),
     "dump_data",
     "output",
-    tmp_meta_filename
+    tmp_meta_in_filename
   )
 )
 
@@ -52,28 +52,31 @@ add_one_to_number <- function(strings, start_characters) {
   return(strings)
 }
 
-scan(tmp_meta_filename, what = character(), sep = '\n') |>
-  str_subset("^Info|^Bookmark") |>
-  add_one_to_number("BookmarkPageNumber")
+scan(tmp_meta_in_filename, what = character(), sep = '\n') |>
   # filter strings starting with 'Info' or 'Bookmark'
+  str_subset("^Info|^Bookmark") |>
+  # add one to pages in bookmarks
+  # since the 'first' page (page number 1) will now be page 'i' in cover
+  # the page with roman number '1' will be page 2 of the PDF
+  add_one_to_number("BookmarkPageNumber") |>
+  # renumber pages
+  # first page (the cover page) is 'i', and second page is '1'
+  # note that page numbers are shown correctly in evince and WPS,
+  # but not programs like okular
+  # and add information and bookmarks
   append(scan("pagerenumbering_metadata.txt", what = character(), sep = "\n")) |>
   write(
-    file = tmp_meta2_filename,
+    file = tmp_meta_out_filename,
     append = FALSE,
     sep = "\n"
   )
 
-# renumber pages
-# first page (the cover page) is 'i', and second page is '1'
-# note that page numbers are shown correctly in evince and WPS,
-# but not programs like okular
-# and add information and bookmarks
 system(
   paste(
     "pdftk",
     tmp_pdf_filename,
     "update_info",
-    tmp_meta2_filename,
+    tmp_meta_out_filename,
     "output",
     paste0(file_name, ".pdf")
   )
