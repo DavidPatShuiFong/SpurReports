@@ -37,7 +37,7 @@ Oral Hygiene is a program in Spur whereby children from schools in Kibera and Ki
 
 -   Spur Afrika held an Oral Hygiene Health week where 11 schools were visited with a total of 10,000 students and teachers and support staff benefiting both in Kibera and Kisumu.
 
-    ![Oral hygiene session at Langatta West Primary School](images/2023H1 Special Oral Hygiene.jpg){width="70%"}
+    ![Oral hygiene session at Langatta West Primary School](images/2023H1%20Special%20Oral%20Hygiene.jpg){width="70%"}
 
 -   Junior High students were chosen as the Colgate Tooth Brushing Ambassador and they all received a certificate to label them as a Tooth Defender Champion. The purpose is for them to represent the rest of the school and share what they have been taught with the rest of the school.
 
@@ -57,7 +57,7 @@ Msingi or BAM (Business as Missions) is a business training program whereby peop
 
 -   The Business training was in three phases in the months of April, May, and June.
 
-    ![Visit by Sue and Sylvia to the business of a BAM student](images/2023H1 Special BAM 1.jpg)
+    ![Visit by Sue and Sylvia to the business of a BAM student](images/2023H1%20Special%20BAM%201.jpg)
 
 -   The 1st phase, in April, had 15 people in attendance, 2nd and 3rd phase (May and June) had 12 people attending the trainings.
 
@@ -65,7 +65,7 @@ Msingi or BAM (Business as Missions) is a business training program whereby peop
 
 -   The students learnt how to prepare a business plan based on their individual business. The students also realized that they can buy things from each other and promote each other’s businesses.
 
-    ![Class group presentations during BAM](images/2023H1 Special BAM 2.jpg)
+    ![Class group presentations during BAM](images/2023H1%20Special%20BAM%202.jpg)
 
 -   After the phase three, the students had a small graduation where they received a certificate for the participation in BAM.
 
@@ -91,7 +91,7 @@ From the Medical Camp, a little over 500 people saw a Doctor and received an ant
 
 -   Most of the ailments treated were coughs and headaches.
 
-![Spur Afrika parent receives free medical advice during the medical camp](images/2023H1 Special Clinic 1.jpg)
+![Spur Afrika parent receives free medical advice during the medical camp](images/2023H1%20Special%20Clinic%201.jpg)
 
 #### Resources
 
@@ -99,7 +99,7 @@ From the Medical Camp, a little over 500 people saw a Doctor and received an ant
 
 -   The event took place at KAG Church premises with stations set for every doctor and nurse available. The dentists had a sanitary station where they extracted teeth if need be.
 
-![Dr Simiyu (Kenya) and Dr David (Australia) see a child](images/2023H1 Special Clinic 2.jpg){width="70%"}
+![Dr Simiyu (Kenya) and Dr David (Australia) see a child](images/2023H1%20Special%20Clinic%202.jpg){width="70%"}
 
 ### Outcomes and Impact
 
@@ -125,7 +125,7 @@ The care provided at the clinic helps both children and adults to live a healthy
 
 The allocated budget for the next six month is **Ksh. 300,000** (**AUD 3,000**). This will cover the cost of running all the second phases of all the activities under Ri-Ki and Coding Program.
 
-![Students and Msingi (Business As Missions) staff members](images/2023H1 Special BAM 3.jpg)
+![Students and Msingi (Business As Missions) staff members](images/2023H1%20Special%20BAM%203.jpg)
 
 ## Plans for the next six months
 
@@ -147,4 +147,4 @@ Email: info\@spurafrika.org
 
 Web: [www.spurafrika.org](https://www.spurafrika.org)
 
-![Graduation photo for BAM students](images/2023H1 Special BAM 4.jpg){fig-align="center"}
+![Graduation photo for BAM students](images/2023H1%20Special%20BAM%204.jpg){fig-align="center"}

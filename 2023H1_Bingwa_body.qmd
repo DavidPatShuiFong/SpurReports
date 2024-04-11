@@ -1,0 +1,152 @@
+---
+title: "Bingwa Girls (Kibera)"
+subtitle: "Monitoring & Evaluation, January to June 2023"
+author:
+  - name: Sue Ojuki
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: https://www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Bingwa Girls Program}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+Bingwa, which translates to "champion," is a program dedicated to empowering both young girls and boys during their journey into adulthood. Recently, we proudly expanded the program by welcoming three additional secondary schools at the start of the year. Our main goal is to provide support and encouragement, fostering a generation of confident individuals who can overcome challenges and achieve success in life. By promoting equality and self-belief, we strive to create a diverse community of champions who will shape a brighter and more inclusive future for themselves and their communities.
+
+![](images/2023H1 Bingwa 6.jpg){fig-align="center"}
+
+## Activity and Output
+
+-   At the beginning of the year, we had a total of 110 girls from St. Juliet and 50 girls from our Elimisha program making it a total of 160 girls.
+
+    -   We are excited to announce the expansion of our program as we welcomed two new schools, Akademia Secondary School (85 girls) and Shammah Secondary School (110 girls), with their inclusion, the number of girls we now minister to has risen significantly, reaching a total of 355 young girls.
+
+-   Group sessions and mentorship talks
+
+    -   The meetings in Shammah happen every two Tuesdays a month for one hour. We held six sessions with the girls at their school hall, between April and June.
+
+    -   The meetings in Akademia happen every two Thursdays a month for one hour. We held six sessions with the girls at their school hall, between April and June.
+
+    -   The meetings in St. Juliet happen every two Thursdays a month for one hour. We held three sessions with the girls at their school hall, between May and June.
+
+    -   We held one session with the Girls under the Elimisha Program. The sessions happened during the school holidays at the Spur Afrika centre.
+
+    ![](images/2023H1 Bingwa 3.jpg){fig-align="center"}
+
+-   The topics of discussion for the period were chosen by the participants and bordered on: Identity, sexuality, values, how to choose good friendships, self-awareness, confidence and emotions.
+
+    -   The Girls under the Elimisha Program covered the topics of; Social responsibility; Dressing appropriately, Time management, relationships and awareness of important days such as Womens' Day. They shall continue to have sessions, during their school holidays.
+
+-   We reached 355 girls through the Bingwa Girls' program.
+
+    -   245 girls received at least two sanitary packs between April and June. Out of these fifty were Spur Afrika Girls.
+
+### Resources
+
+-   Spur Team Members 
+
+-   Volunteers
+
+-   Time
+
+-   Finances
+
+-   Sanitary packs
+
+-   Teachers
+
+-   Students from the 3 schools
+
+-   Spur Afrika girls.
+
+## Outcomes and Impact
+
+-   Enhanced self-identity, self-confidence and self-esteem, the girl’s self-confidence and esteem has increased; the girls are able to freely express themselves ask for help and questions.
+
+-   Through the development of improved leadership skills, we have appointed representatives in each school who play a pivotal role in connecting with the girls and facilitating our engagement with them.
+
+-   Enhanced knowledge about health, hygiene, and reproductive education.
+
+-   Increased awareness of their rights and opportunities.
+
+-   Inspired a sense of agency and empowerment in making life choices.
+
+-   Strengthened resilience and ability to overcome challenges.
+
+-   Fostering a generation of empowered young women ready to make a positive impact in their communities and beyond.
+
+![](images/2023H1 Bingwa 1.jpg){fig-align="center"}
+
+## Challenges faced in the last six months
+
+-   As these schools are relatively new additions to our program, we have observed that some of the girls might initially be less open and expressive with us.
+
+-   Due to the constraints of the tight school schedule, we have adjusted the number of sessions in the three schools (Akademia, Shammah, and St. Juliet). The short duration of school holidays has posed challenges in conducting extensive sessions with our Spur girls.
+
+-   Poor sanitation which makes it difficult for the girls to maintain good menstrual hygiene.
+
+    -   Several girls have shared their concerns regarding challenges they face in maintaining body hygiene, particularly due to issues like the lack of water supply at their homes.
+
+    -   Myths and misconceptions surrounding Menstruation.
+
+-   Some of the girls are going through family issues at home hence affecting them in school.
+
+-   Lack of school fees experienced by some of the girls.
+
+![](images/2023H1 Bingwa 5.jpg){fig-align="center"}
+
+## Budget update
+
+-   Funds used so far in the last 6 months is **Ksh. 337,000 (**approximately **AUD 3,400).** This includes cost of sanitary packs and under garments distributed to 350 girls (2 Secondary Schools & 1 Primary School).
+
+-   The funds utilised so far are within the budget.
+
+The allocated budget for the next six month is **Shs. 300,000 (AUD 3,000)**. This will cover the cost of an annual end year camp for the participating girls (Lunch, sanitary packs & under garments).
+
+## Plans for the next six months
+
+-   Continue to take advantage of the school holidays to meet the Spur Girls and Akademia, Shammah, and St. Juliet girls twice a month for each school. 
+
+-   Collaborate with Shammah, Akademia, Maono and St. Juliet’s teacher to devise a plan for distributing sanitary packs to the Girls, even during school closures.
+
+-   To create a safe space for our Spur girls as well as girls from Shammah, Akademia, and St. Juliet so that they can be able to talk to us freely about anything and everything.
+
+-   We are committed to supporting and guiding the girls as they journey into adulthood, navigating the changes in their bodies with care and understanding. 
+
+-   We plan to work with our male staff and volunteers to integrate sessions with the boys from each school into our program.
+
+-   To eliminate the myths and misconceptions surrounding Menstruation and promote hygiene.
+
+-   To ensure our Spur sponsored girls receive sanitary packs during school holidays.
+
+## Editors
+
+Dr. David Fong (Monitoring, Evaluation and Learning)
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)
