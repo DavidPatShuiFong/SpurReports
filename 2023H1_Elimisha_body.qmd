@@ -1,6 +1,6 @@
 ---
 title: "Elimisha (Kibera)"
-subtitle: "Monitoring & Evaluation, JJanuary to June 2023"
+subtitle: "Monitoring & Evaluation, January to June 2023"
 author:
   - name: Nicholas 'Niko' Kengora (Sponsorship program manager)
     affiliations:
