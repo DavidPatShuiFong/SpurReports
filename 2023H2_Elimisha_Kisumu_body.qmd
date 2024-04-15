@@ -1,0 +1,146 @@
+---
+title: "Elimisha (Kisumu)"
+subtitle: "Monitoring & Evaluation, July to December 2023"
+author:
+  - name: Andrew Onyango (Program manager)
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: https://www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Group mentorship at Kisumu}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+## Introduction
+
+The Elimisha (Sponsorship) program seeks to promote education among the under privileged (orphaned or in strenuous economic conditions) children in Kisumu county. The program aims to educate, empower and engage the children for a sustainable future. Kisumu currently has 30 children in the program, 15 girls and 15 boys. 22 Children are in Primary School, 8 in High School. We have 28 students in public schools and 2 in private schools.
+
+## School Update
+
+### Activities and Outputs
+
+-   All the fee payments were paid within the first 2 weeks of each school term when children resumed school.
+
+-   30 families of the sponsored children were visited in the last six months, one parent passed on.
+
+-   Tuition classes by mentors
+
+-   Mentorship meetings
+
+-   Picnic and hike
+
+#### Resources and inputs
+
+-   Scholarships, 
+
+-   Spur Staff & Volunteers
+
+-   Teachers
+
+-   Mentors
+
+-   Finances
+
+### Outcomes
+
+-   24 Students out of 30 students attended school throughout the school term, 6 students were absent due to sickness.
+
+    -   There is improvement in school attendance i.e. 90%
+
+-   Of the 30 students, 12 students performed above average, 13 students performed average and 5 students performed below average.
+
+    -   83% of the students are performing at average level of higher, which is an improvement compared to the first half of the year.
+
+### Impact
+
+-   3 students have successfully completed primary school. 
+
+-   9 students did their KPSA exams to join Junior secondary school
+
+## Mentorship and Camps
+
+### Activities and Outputs
+
+-   Mentorship meetings
+
+    -   All children attended 4 group mentorship sessions facilitated by a Spur Afrika Staff
+
+-   We had 29 Sponsored children attend our 3 day Kisumu camp.
+
+-   We had 12 mentorship programs for our sponsored students within the last 6 months
+
+-   We had 9 sponsored children who had improved academically travel to Nairobi for the Spur Afrika end-of-year camp.
+
+### Outcomes
+
+-   Children have improved in discipline due to continuous weekend mentorships.
+
+-   No indiscipline cases were recorded in the last 6 months.
+
+-   General improved school performance. More children did well in their exams.
+
+## Medical
+
+### Activities
+
+-   From July to December, 6 children got sick and received medical attention from the hospital. 
+
+-   Reminded the children about oral hygiene education and gave them toothbrush and toothpaste.
+
+### Resources
+
+-   2 Spur staff
+
+-   Medical care/Hospital
+
+-   Finances
+
+### Outcome and Impact
+
+-   Sponsored Children were able to access Better medical care.
+
+-   Less number of children getting sick compared to the first half of the year. 
+
+-   More children are brushing their teeth correctly leading to a decrease in dental problems.
+
+## Challenges faced in the last six months
+
+-   Most of the parents still struggle to provide basic needs for the children due to lack of stable job or business.
+
+-   Medical cover (NHIF) is still a challenge for the parents, The system is not working well in Holo/Kisumu County.
+
+## Budget update
+
+-   Funds used so far in the last 6 months is **Ksh. 562,000 (**approximately **AUD 5,620).** This includes cost of school fees,  camp costs for 6 children who got a reward for improved school performance and general behaviour and salary costs for one Spur staff in-charge of the program.
+
+## Editor
+
+Dr. David Fong (Monitoring, Evaluation and Learning)
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)
