@@ -1,8 +1,8 @@
 ---
-title: Elimisha (Kisumu) Report
-subtitle: Monitoring & Evaluation, July to December 2023
+title: Special Programs (Kibera) Report
+subtitle: Monitoring & Evaluation, July to December 2023 
 author:
-  author: Andrew Onyango (Program manager)
+  author: Spur Afrika
   affiliation:
   - name: Spur Afrika Kenya
 format: 
@@ -15,7 +15,7 @@ format:
     lof: false
     lot: false
     titlepage: bg-image 
-    titlepage-bg-image: "images/2023H2 Elimisha Kisumu Group.jpg"
+    titlepage-bg-image: "images/2023H2 Special Computer Lab.jpg"
     titlepage-logo: "images/spur_logo-green.1b847933.png"
     titlepage-geometry: ["top=1in", "bottom=7in", "right=1in", "left=1in"]
     titlepage-theme:

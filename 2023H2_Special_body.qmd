@@ -1,0 +1,142 @@
+---
+title: "Special Programs (Kibera)"
+subtitle: "Monitoring & Evaluation, July to December 2023"
+author:
+  - name: Sylvia Kenda Agwona
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: https://www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Two students enthusiastically learning from one another in the Coding Program}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+## RI-KI
+
+Ri-Ki is an educative program where children from the schools in the community meet to compete on themed tasks like trivia questions, choral verses or traditional dances. The objective is to grow the reading culture in children from the Kibera community.
+
+### Activity and Output
+
+-   In the month of August, Spur Afrika held a RI-KI at a school in Kibera (KAG Educational Center) with 7 schools from the community competing. The event was themed on celebration and the schools had 15-20 children per school preparing for the dances.
+
+    -   Dance competition
+
+    -   Themed choral verses
+
+        ![One of the Spur Afrika sponsored children representing her school in RI-KI Competition, traditional dance category](images/2023H2 Special Ri-ki Dance.jpg)
+
+-   Three schools with the highest marks in traditional dance and Choral verses received trophies 
+
+-   More students participated in the different activities compared to previous Ri-Ki events.
+
+-   All participating students received a prize.
+
+#### Inputs and Resources
+
+-   6 Spur Staff & 4 Volunteers 
+
+-   Finances
+
+-   Teachers & Students
+
+![A drummer in traditional regalia ready to beat the drums to his school's victory](images/2023H2 Special Ri-ki Drummer.jpg){fig-align="center"}
+
+### Outcome and Impact
+
+-   There is increased confidence especially in the participating students, compared to the previous Ri-Ki competitions. There is notable increase in stage confidence.
+
+-   The mental health of the children is cared for since firstly they are using their talents and secondly they will have a way to make a living (financial sustainability) in future in the situations where university education is not achievable (since most of them come from needy backgrounds).
+
+![Girls from Karama Academy ready to compete during Ri-Ki](images/2023H2 Special Ri-ki Karama.jpg){fig-align="center"}
+
+## Coding Program
+
+With technological advancements across the world, there is need to empower the sponsored children with computer skills to help them be more techno-savvy.
+
+### Activities and Outputs
+
+-   Spur Afrika in Partnership with Gonline Africa/Openwise Foundation had a Holiday and weekend program for 20 Spur Sponsored children in teaching them about coding.
+
+    -   coding training lessons
+
+    -   guided coding projects
+
+    ![Coding class session taking place with two volunteers and Spur Afrika staff](images/2023H2 Special Computer instruction.jpg)
+
+#### Inputs and Resources
+
+-   1 Trainer 
+
+-   10 Volunteers 
+
+-   15 Computers
+
+-   Financial Resources
+
+### Outcomes and Impact
+
+-   The children successfully worked on projects aligned to a sustainable development goal (SDG) and presented the same in the presence of Spur Staff and their Parents.
+
+-   At least 4 out the 20 students who participated in the Coding program have great potential in furthering the same. 
+
+-   There was improved self- awareness and self-confidence in the participating students.
+
+![Students present their findings on Sustainable Development Goal 13 (Climate Action) and how it affects human beings internally and externally](images/2023H2 Special Computer presentation.jpg){alt="Students present their findings on Sustainable Development Goal 13 (Climate Action) and how it affects human beings internally and externally"}
+
+## Challenges faced in the last six months
+
+-   The coding program needed a lot of resources to be successful including finances. Spur Afrika was not able to meet all financial needs of the program, as the program was not in the 2024 budget. Some of the students had to share computers. Sharing computers may have been challenging for them as the lessons needed a lot of practice and on-spot learning. 
+
+-   There were challenges with the internet and electricity due to poor weather (Rainy season) that resulted in regular power blackouts.
+
+![Students discussing on computer coding project given on sustainable development goals (SDGs).](images/2023H2 Special Computer discussion.jpg){fig-align="center"}
+
+## Budget update
+
+-   The costs allocated to Ri-Ki program were sufficient to carry out the program. The Coding Program did not have a budget allocation in 2024, hence it was challenging to meet some of the costs of the program. 
+
+-   Shs. 540,000 (AUD 5,000) was used for special programs between July to December 2023. The amount used was more than the allocated budget due to the Coding Program.
+
+![Some of the volunteer trainers, together with Spur Afrika staff members](images/2023H2 Special Computer volunteers.jpg){fig-align="center"}
+
+## Plans for the next six months
+
+-   Hold a three-day medical clinic outreach in Partnership with Kibera Human Needs Project Hospital. 
+
+-   Have a school campaign on oral hygiene that promotes awareness creation on importance or brushing teeth correctly. The program is done in partnership with Colgate Kenya. 
+
+-   Start planning for the Msingi Business training that is projected to start in May/June 2024
+
+![Ri-Ki winning school celebrating their win after receiving some gifts, certificates and a trophy](images/2023H2 Special Ri-ki Winners.jpg){fig-align="center"}
+
+## Editors
+
+Dr. David Fong (Monitoring, Evaluation and Learning)
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)
