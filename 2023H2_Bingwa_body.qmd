@@ -31,7 +31,7 @@ format:
 ```
 Bingwa, meaning "champion" in translation, is a dedicated initiative aimed at empowering young girls and boys as they navigate the path to adulthood. We are thrilled to announce the recent expansion of the program, with the inclusion of three new secondary schools at the beginning of the year. Our primary objective is to offer unwavering support and encouragement, nurturing a generation of self-assured individuals capable of overcoming challenges and attaining success in life. Through the promotion of equality and self-confidence, our mission is to cultivate a diverse community of champions who will contribute to shaping a more luminous and inclusive future for both themselves and their communities.
 
-![](images/2023H2 Bingwa Centre 2.jpg){fig-align="center"}
+![](images/2023H2%20Bingwa%20Centre%202.jpg){fig-align="center"}
 
 ## Activity and Output
 
@@ -49,7 +49,7 @@ Bingwa, meaning "champion" in translation, is a dedicated initiative aimed at em
 
     -   Together, we hosted 510 girls, including 500 from five secondary schools in Kibera and 10 from our Spur-sponsored girls. Each girl received a sanitary pack to take home during this special event.
 
-    ![Distributing sanitary towels at Akademia Secondary School](images/2023H2 Bingwa Akademia 1.jpg)
+    ![Distributing sanitary towels at Akademia Secondary School](images/2023H2%20Bingwa%20Akademia%201.jpg)
 
 -   As the schools closed for the long holidays, 367 girls received a minimum of two sanitary towels in September. Among them, fifty were Spur Afrika Girls, Kibera, and 12 from Spur Afrika Kisumu, facilitated through the Christmas Love box campaign.
 
@@ -89,7 +89,7 @@ Bingwa, meaning "champion" in translation, is a dedicated initiative aimed at em
 
     -   Enhanced knowledge about health, hygiene, and reproductive education.
 
-    ![Meeting with Spur sponsored girls at the Spur Centre](images/2023H2 Bingwa Centre 1.jpg)
+    ![Meeting with Spur sponsored girls at the Spur Centre](images/2023H2%20Bingwa%20Centre%201.jpg)
 
 -   Inspired a sense of agency and empowerment in making life choices.
 
@@ -113,7 +113,7 @@ Bingwa, meaning "champion" in translation, is a dedicated initiative aimed at em
 
 -   A number of girls are faced with lack of school fees.
 
-![Distributing sanitary towels at Akademia Secondary School](images/2023H2 Bingwa Akademia 2.jpg){fig-align="center"}
+![Distributing sanitary towels at Akademia Secondary School](images/2023H2%20Bingwa%20Akademia%202.jpg){fig-align="center"}
 
 ## Budget update
 
@@ -129,7 +129,7 @@ The funds used in the last six months was **Shs. 499,850** (**AUD 5,000)**. The 
 
 -   Empower the participating girls with accurate information about menstruation to dispel the myths and misconceptions surrounding Menstruation and promote menstrual hygiene.
 
-![Bingwa session at St Juliet Primary School](images/2023H2 Bingwa St Juliet 1.jpg){fig-align="center"}
+![Bingwa session at St Juliet Primary School](images/2023H2%20Bingwa%20St%20Juliet%201.jpg){fig-align="center"}
 
 ## Editors
 

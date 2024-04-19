@@ -1,0 +1,36 @@
+---
+title: Mentorship Report
+subtitle: Monitoring & Evaluation, July to Deember 2023 
+author:
+  author: Maureen Koli
+  affiliation:
+  - name: Spur Afrika Kenya
+format: 
+  titlepage-pdf:
+    documentclass: scrbook
+    papersize: a4
+    classoption: ["oneside", "open=any"]
+    number-sections: true
+    toc: false
+    lof: false
+    lot: false
+    titlepage: bg-image 
+    titlepage-bg-image: "images/2023H2 Mentorship Three Mentees.jpg"
+    titlepage-logo: "images/spur_logo-green.1b847933.png"
+    titlepage-geometry: ["top=1in", "bottom=7in", "right=1in", "left=1in"]
+    titlepage-theme:
+      elements: ["\\logoblock", "\\titleblock", "\\footerblock"]
+      page-align: "left"
+      title-style: "plain"
+      title-fontstyle: ["huge", "bfseries"]
+      title-space-after: "4\\baselineskip"
+      subtitle-fontstyle: ["large", "textit"]
+      author-style: "superscript-with-and"
+      author-fontstyle: "large"
+      footer-style: "plain"
+      footer-fontstyle: "large"
+      logo-size: "0.5\\textheight"
+      logo-space-after: "2\\baselineskip"
+      bg-image-size: "\\paperwidth"
+      bg-image-location: "LLCorner"
+---
