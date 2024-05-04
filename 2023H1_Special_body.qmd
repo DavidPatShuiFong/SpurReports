@@ -57,7 +57,7 @@ Msingi or BAM (Business as Missions) is a business training program whereby peop
 
 -   The Business training was in three phases in the months of April, May, and June.
 
-    ![Visit by Sue and Sylvia to the business of a BAM student](images/2023H1%20Special%20BAM%201.jpg)
+    ![Visit by Sue and Sylvia to the business of a BAM student](images/2023H1%20Special%20BAM%201.jpg){alt="Visit by Sue and Sylvia to the business of a BAM student" fig-align="center" width="100%"}
 
 -   The 1st phase, in April, had 15 people in attendance, 2nd and 3rd phase (May and June) had 12 people attending the trainings.
 
@@ -65,7 +65,7 @@ Msingi or BAM (Business as Missions) is a business training program whereby peop
 
 -   The students learnt how to prepare a business plan based on their individual business. The students also realized that they can buy things from each other and promote each other’s businesses.
 
-    ![Class group presentations during BAM](images/2023H1%20Special%20BAM%202.jpg)
+    ![Class group presentations during BAM](images/2023H1%20Special%20BAM%202.jpg){fig-align="center"}
 
 -   After the phase three, the students had a small graduation where they received a certificate for the participation in BAM.
 
@@ -91,7 +91,7 @@ From the Medical Camp, a little over 500 people saw a Doctor and received an ant
 
 -   Most of the ailments treated were coughs and headaches.
 
-![Spur Afrika parent receives free medical advice during the medical camp](images/2023H1%20Special%20Clinic%201.jpg)
+![Spur Afrika parent receives free medical advice during the medical camp](images/2023H1%20Special%20Clinic%201.jpg){fig-align="center"}
 
 #### Resources
 
@@ -99,7 +99,7 @@ From the Medical Camp, a little over 500 people saw a Doctor and received an ant
 
 -   The event took place at KAG Church premises with stations set for every doctor and nurse available. The dentists had a sanitary station where they extracted teeth if need be.
 
-![Dr Simiyu (Kenya) and Dr David (Australia) see a child](images/2023H1%20Special%20Clinic%202.jpg){width="70%"}
+![Dr Simiyu (Kenya) and Dr David (Australia) see a child](images/2023H1%20Special%20Clinic%202.jpg){fig-align="center" width="50%"}
 
 ### Outcomes and Impact
 
