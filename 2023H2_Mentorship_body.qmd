@@ -47,7 +47,7 @@ The Mentorship Program witnessed substantial growth and achievement, building up
 
     -   There is increased use of virtual mentorship sessions especially for mentors who are out of town. The mentees are now more accustomed to virtual mentorship sessions and have embraced the same. This has helped in improving the mentor-mentee relationship in spite of distance.\
 
-        ![Online mentorship session](images/2023H2 Mentorship Online.jpg)
+        ![Online mentorship session](images/2023H2%20Mentorship%20Online.jpg)
 
 2.  **Group Mentorship**
 
@@ -61,7 +61,7 @@ The Mentorship Program witnessed substantial growth and achievement, building up
 
     -   Collaborating with corporate entities such as Deloitte and Fraiser Group, we organized two career mentorship sessions, attended by approximately 50 and 20 sponsored students, respectively.
 
-        ![Career mentorship session (online) with Deloitte](images/2023H2 Mentorship Careers.jpg)
+        ![Career mentorship session (online) with Deloitte](images/2023H2%20Mentorship%20Careers.jpg)
 
     -   Notably, 20 sponsored students enrolled in coding classes, facilitated by OPENWYSE Learning and GONLINE, culminating in projects aimed at addressing Sustainable Development Goals (SDGs).
 
@@ -91,7 +91,7 @@ The Mentorship Program witnessed substantial growth and achievement, building up
 
     -   An end-of-year BBQ for mentors was hosted at the Spur Afrika Community Centre.
 
-        ![Mentorship team building activity - talking strategy!](images/2023H2 Mentorship team building.jpg){alt="Mentorship team building activity - talking strategy!"}
+        ![Mentorship team building activity - talking strategy!](images/2023H2%20Mentorship%20team%20building.jpg)
 
 #### Resources and inputs
 
@@ -115,7 +115,7 @@ The Mentorship Program witnessed substantial growth and achievement, building up
 
 -   Board games
 
-![Mentor and mentee - happy smiles!](images/2023H2 Mentorship One-to-one.jpg){fig-align="center"}
+![Mentor and mentee - happy smiles!](images/2023H2%20Mentorship%20One-to-one.jpg){fig-align="center"}
 
 ## Outcomes and Impacts
 
@@ -127,7 +127,7 @@ The Mentorship Program witnessed substantial growth and achievement, building up
 
 -   The mentorship gap is narrowing, boasting a total of 70 committed mentors. Some mentors have willingly taken on more than one mentee.
 
-    ![Mentors](images/2023H2 Mentorship mentors.jpg)
+    ![Mentors](images/2023H2%20Mentorship%20mentors.jpg)
 
 3.  **Educational Milestones:**
 
@@ -153,7 +153,7 @@ The Mentorship Program witnessed substantial growth and achievement, building up
 
 8.  **Financial Support and Encouragement:**
 
-Two mentors demonstrated remarkable support by providing financial assistance to their mentees. Mitchel covered trip fees for two mentees, Wilfred gifted his mentee a basketball to enhance skills, and Irene provided Christmas shopping and schoolbooks to her mentee, contributing to their overall well-being and comfort in school.
+-   Two mentors demonstrated remarkable support by providing financial assistance to their mentees. Mitchel covered trip fees for two mentees, Wilfred gifted his mentee a basketball to enhance skills, and Irene provided Christmas shopping and schoolbooks to her mentee, contributing to their overall well-being and comfort in school.
 
 ## Challenges faced in the last six months
 
@@ -161,23 +161,20 @@ Two mentors demonstrated remarkable support by providing financial assistance to
 
     Anticipating a surplus of female mentors in the upcoming months, which may require strategic planning to ensure effective utilization and balance.
 
-```{=html}
 <!-- -->
-```
+
 2.  **Initial Challenges in Establishing Mentorship Relationships**
 
     Acknowledging the inherent difficulties in initiating and establishing mentorship relationships, recognizing the need for focused efforts to navigate these initial hurdles successfully.
 
-```{=html}
 <!-- -->
-```
+
 3.  **Time Constraints**
 
     Persistent time constraints remain a challenge as some mentors grapple with finding a balance between professional commitments, personal life, and their mentorship responsibilities.
 
-```{=html}
 <!-- -->
-```
+
 4.  **Impact of Economic Hardship:**
 
     The prevailing challenging economic conditions have resulted in job losses for some mentors, potentially affecting their ability to provide effective mentorship. This economic strain may have repercussions on the overall mentorship output and engagement.
@@ -186,85 +183,74 @@ Two mentors demonstrated remarkable support by providing financial assistance to
 
 -   Funds used so far in the last 6 months is **Ksh.439.608 (AUD 7,029)**.This includes cost of worker in-charge of the program.
 
-```{=html}
 <!-- -->
-```
+
 -   The funds for the Program are sufficient and all the costs are within the budget.
 
-![Faith Aseka - successful Spur Afrika graduate, now working](images/2023H2 Mentorship Faith.jpg){alt="Faith Aseka - successful Spur Afrika graduate, now working" fig-align="center"}
+![Faith Aseka - successful Spur Afrika graduate, now working](images/2023H2%20Mentorship%20Faith.jpg){fig-align="center"}
 
-## Plans for 2023
+## Plans for 2024
 
 1.  **Expand Recruitment Efforts for Male Mentors**
 
     Actively promote the recruitment of additional male mentors to diversify and strengthen the mentorship program.
 
-```{=html}
 <!-- -->
-```
+
 2.  **Promote Multi-Mentee Relationships**
 
     Encourage mentors to consider expanding their impact by mentoring more than one child, fostering a broader positive influence.
 
-```{=html}
 <!-- -->
-```
+
 3.  **Recognize and Reward Achievements**
 
     Advocate for mentors to continue acknowledging and rewarding their mentees for noteworthy accomplishments, reinforcing positive behaviour and achievements.
 
-```{=html}
 <!-- -->
-```
+
 4.  **Facilitate Online Mentorship for Busy Mentors**
 
     Support mentors with busy schedules by promoting online mentorship opportunities through timely reminders and accessible digital platforms.
 
-```{=html}
 <!-- -->
-```
+
 5.  **Enhance Intentional Mentorship Groups**
 
     Establish intentional mentorship groups, providing a platform to teach practical skills to students that can contribute to their future success.
 
-```{=html}
 <!-- -->
-```
+
 6.  **Sustain Mentor Recognition System**
 
     Continue the mentors' reward system to express appreciation for those who consistently excel in their mentorship roles.
 
-```{=html}
 <!-- -->
-```
+
 7.  **Promote Personal Connections**
 
     Encourage mentors to strengthen their relationships with mentees by visiting their homes or schools, fostering a deeper and more personal connection.
 
-```{=html}
 <!-- -->
-```
+
 8.  **Organize Outdoor and Interactive Events**
 
     Host more outdoor and interactive events or activities designed to enhance mentor-mentee bonding and create memorable experiences.
 
-```{=html}
 <!-- -->
-```
+
 9.  **Follow-up on Mentorship Topics**
 
     Conduct regular follow-ups on mentorship topics outlined in the files, ensuring that relevant information is readily available during mentorship sessions.
 
-```{=html}
 <!-- -->
-```
+
 10. **Support Co-Mentorship for Female Mentors**
 
     Promote co-mentorship arrangements for female mentors, providing additional support and shared insights in the mentorship journey.
 
-```{=html}
 <!-- -->
-```
+
 11. **Utilize Counselling Sessions**
 
     Emphasize the importance of utilizing counselling sessions to address mentees' personal challenges and support their overall well-being.

@@ -31,7 +31,7 @@ format:
 ```
 Bingwa, which translates to "champion," is a program dedicated to empowering both young girls and boys during their journey into adulthood. Recently, we proudly expanded the program by welcoming three additional secondary schools at the start of the year. Our main goal is to provide support and encouragement, fostering a generation of confident individuals who can overcome challenges and achieve success in life. By promoting equality and self-belief, we strive to create a diverse community of champions who will shape a brighter and more inclusive future for themselves and their communities.
 
-![](images/2023H1 Bingwa 6.jpg){fig-align="center"}
+![](images/2023H1%20Bingwa%206.jpg){fig-align="center"}
 
 ## Activity and Output
 
@@ -49,7 +49,7 @@ Bingwa, which translates to "champion," is a program dedicated to empowering bot
 
     -   We held one session with the Girls under the Elimisha Program. The sessions happened during the school holidays at the Spur Afrika centre.
 
-    ![](images/2023H1 Bingwa 3.jpg){fig-align="center"}
+    ![Obtaining feedback and suggested topics to discuss throughout the year at Akademia secondary school (2024)](images/2023H1 Bingwa 2024H1 Akademia.jpeg){fig-align="center"}
 
 -   The topics of discussion for the period were chosen by the participants and bordered on: Identity, sexuality, values, how to choose good friendships, self-awareness, confidence and emotions.
 
@@ -93,7 +93,7 @@ Bingwa, which translates to "champion," is a program dedicated to empowering bot
 
 -   Fostering a generation of empowered young women ready to make a positive impact in their communities and beyond.
 
-![](images/2023H1 Bingwa 1.jpg){fig-align="center"}
+![Formerly sponsored girls assisting in leading a Bingwa girls session at St Juliet's (2024)](images/2023H1 Bingwa 2024H1 StJuliet.jpeg){fig-align="center"}
 
 ## Challenges faced in the last six months
 
@@ -111,7 +111,7 @@ Bingwa, which translates to "champion," is a program dedicated to empowering bot
 
 -   Lack of school fees experienced by some of the girls.
 
-![](images/2023H1 Bingwa 5.jpg){fig-align="center"}
+![](images/2023H1%20Bingwa%205.jpg){fig-align="center"}
 
 ## Budget update
 

@@ -47,7 +47,7 @@ The Elimisha (Sponsorship) program seeks to promote education among the under pr
 
 -   Picnic and hike
 
-![School visit - performance review](images/2023H2 Elimisha Kisumu School Visit.jpg){fig-align="center"}
+![School visit - performance review](images/2023H2%20Elimisha%20Kisumu%20School%20Visit.jpg){fig-align="center"}
 
 #### Resources and inputs
 
@@ -65,7 +65,7 @@ The Elimisha (Sponsorship) program seeks to promote education among the under pr
 
 -   24 Students out of 30 students attended school throughout the school term, 6 students were absent due to sickness.
 
-    -   There is improvement in school attendance i.e. 90%
+    -   There is improvement in school attendance i.e. 80%
 
 -   Of the 30 students, 12 students performed above average, 13 students performed average and 5 students performed below average.
 
@@ -99,7 +99,7 @@ The Elimisha (Sponsorship) program seeks to promote education among the under pr
 
 -   General improved school performance. More children did well in their exams.
 
-![Home visit](images/2023H2 Elimisha Kisumu Home Visit.jpg){fig-align="center"}
+![Home visit](images/2023H2%20Elimisha%20Kisumu%20Home%20Visit.jpg){fig-align="center"}
 
 ## Medical
 
@@ -129,7 +129,7 @@ The Elimisha (Sponsorship) program seeks to promote education among the under pr
 
 -   Most of the parents still struggle to provide basic needs for the children due to lack of stable job or business.
 
--   Medical cover (NHIF) is still a challenge for the parents, The system is not working well in Holo/Kisumu County.
+-   Medical insurance cover (NHIF) is still a challenge for the parents, The system is not working well in Holo/Kisumu County.
 
 ## Budget update
 
