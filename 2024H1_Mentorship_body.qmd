@@ -1,0 +1,242 @@
+---
+title: "Mentorship (Kibera)"
+subtitle: "Monitoring & Evaluation, January to June 2024"
+author:
+  - name: Jael Kijala
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: https://www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Mentor-Mentee hangout}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+## Introduction
+
+Spur Afrika's Mentorship Program, a key part of our Child Sponsorship (Elimisha) progam is dedicated to supporting 157 sponsored children. Through one-on-one sessions and group sessions with responsible adults and peer mentorship the program aims to enhance social skills, expand their understanding of future opportunities, and promote both character and spiritual development. This nurturing approach aligns with Spur Afrika’s mission to transform lives and foster holistic growth in each child.
+
+![](images/2024H1 Mentor Hangout 3.jpg)
+
+## Activities and Outputs
+
+The Mentorship Program has seen significant growth and success in the first half of the year, building on the strong foundation established at the beginning of and part of last year.
+
+We are proud to announce the milestones reached through the first half of the year:
+
+1.  **One-on-One Mentorship Meetings**
+
+    -   72 sponsored children benefited from 86 one-on-one sessions. On average we had about 10 sessions each month between January and June. Most mentorship meetings and sessions happened in April when the children in both boarding and Day schools were on school break.
+
+    -   Virtual mentorship sessions are more appealing particularly for mentors who are out of town or have busy schedules. Mentees have also become more comfortable with virtual sessions and have embraced this approach. As a result, the mentor-mentee relationship has strengthened, despite the challenges of distance and time constraints.\
+        \
+        ![](images/2024H1 Mentor Hangout 2.jpg)
+
+    -   Virtual mentorship has also played a good role in helping the mentees using this platform to learn more about using computers as well as increase their confidence in the way they express themselves.
+
+    -   There are intentional efforts to reach out to mentors who are especially busy with work or other commitments to embrace virtual mentorship so as to keep in track with their mentorship journey as well as strengthen the mentor/mentee relationship through regular communication.\
+
+2.  **Group Mentorship**
+
+    Group mentorship sessions have enabled us to connect with children who currently do not have individual mentors. We are proud to share that during the reported period, four group sessions were successfully held at the Spur Centre. The sessions were led by Spur Team members with the help of Elimisha students who are currently in University or College.\
+    \
+    Here are the key milestones achieved:
+
+    -   Four group mentorship sessions took place at the Spur Centre. Two of these sessions included all our sponsored children from Kibera, one focused on a select group of Kisumu children, and another was dedicated to supporting our current candidates as they prepare for their exams. 
+
+    -   During the group sessions, the children had the opportunity to engage with one another, discussing topics such as academics, mental health, and interpersonal relationships.
+
+    -   Spur Afrika's female staff, in collaboration with a female volunteer mentor, led a mentorship session for the sponsored girls, focusing on hygiene, mental health, and self-empowerment.\
+        \
+        ![](images/2024H1 Mentor Games 2.jpg)
+
+3.  **Career mentorship**
+
+    -   Collaborating with two friends of the organization, we organized two career mentorship sessions, attended by 12 and 10 sponsored students, respectively.
+
+    -   15 sponsored students enrolled in coding classes, facilitated by Reneece of  'Coding with Kids', culminating in projects aimed at addressing different Sustainable Development Goals (SDGs), as well as improving their typing skills and game development.
+
+    -   We also had children engage in chess classes that contributed to their overall brain development and their creativity, in partnership with 'Passion Driven Chess Club'.
+
+4.  **Mentors training and team building**
+
+    -   In January we held a training for volunteer mentors and potential mentors. The training was to assist them in their mentorship journey. Topics that were discussed were improving communication flow, icebreakers, problem-solving skills and mental health.\
+        \
+        ![](images/2024H1 Mentor Training 2.png)
+
+    -   During the reporting period, we hosted a Mentor and Mentee hangout, where mentors had the chance to interact with children beyond their own mentees. The event was attended by 39 mentors and 115 children from our program.
+
+    -   We observed improved attendance from mentors at the two mentorship events held between January and June.
+
+5.  **Counselling**
+
+    -   Two students participated in counselling sessions, each undergoing two sessions.
+
+#### Resources and inputs
+
+-   Mentors
+
+-   Time
+
+-   Finance 
+
+-   Spur Afrika staff 
+
+-   Spur Afrika sponsored students
+
+-   Incentives 
+
+-   Volunteers
+
+-   Venues
+
+-   Counsellors
+
+## Outcomes and Impacts
+
+1.  **Increased mentorship engagement\
+    **
+
+    The mentorship gap is steadily closing, with 70 dedicated mentors now involved. Some mentors have even taken on multiple mentees. Additionally, there has been an increase in volunteers contributing to various career and group mentorship sessions.\
+    \
+    ![](images/2024H1 Mentor Games 4.jpg)
+
+```{=html}
+<!-- -->
+```
+2.  **Educational and Academic Milestones\
+    **
+
+    Through mentorship, students have actively improved their grades and increased their engagement in co-curricular activities, which has positively contributed to their academic excellence.\
+    \
+    An increasing number of students have enrolled in universities and colleges with a clearer focus on their careers.
+
+3.  **Career Advancement and Proactiveness**
+
+    \
+    We have made significant strides in career advancement by partnering with various organizations, especially in the technology sector, to open up a range of career options to our sponsored children. \
+    \
+    Additionally, there has been a notable increase in student involvement, with children becoming more proactive in engaging with Spur Afrika programs and activities during school breaks. University students, in particular, have shown heightened enthusiasm, not only participating more actively but also seeking out opportunities to acquire new skills.\
+
+4.  **Spiritual Growth**
+
+    \
+    Introduced spiritual group meetings for sponsored students, in partnership with fostering a holistic approach to their personal development.\
+
+5.  **Mentees support and Encouragement**
+
+    \
+    Mentors have shown exceptional support by offering support and incentives to their mentees. Mitchel covered trip fees for one of her mentees. Martina provided examination sets to her mentees as they prepared for their end-of-year exams. Grace offered her mentee a place to stay during the school holidays, helping to reduce transportation costs to home.\
+    \
+    ![](images/2024H1 Mentor Games 1.jpg)
+
+## Challenges faced in the last six months
+
+1.  **More Female than Male Mentors**
+
+    Almost all the female Elimisha children have mentors. By contrast, some male students do not have one-on-one mentors and are group-mentored. As a result, it is harder to keep track of the progress of male students.
+
+<!-- -->
+
+2.  **Initial Challenges in Establishing Mentorship Relationships**
+
+    Acknowledging the inherent difficulties in initiating and establishing mentorship relationships, recognizing the need for focused efforts to navigate these initial hurdles successfully.
+
+<!-- -->
+
+3.  **Time Constraints**
+
+    Persistent time constraints remain a challenge as some mentors grapple with finding a balance between professional commitments, personal life, and their mentorship responsibilities.
+
+<!-- -->
+
+4.  **Impact of Economic Hardship:**
+
+    The prevailing challenging economic conditions have resulted in job losses for some mentors, potentially affecting their ability to provide effective mentorship. Many mentors are also dealing with personal challenges, making it difficult for them to strike a balance and maintain strong mentor-mentee relationships. This economic and emotional strain may result in reduced mentorship engagement and diminished overall mentorship effectiveness.
+
+    <!-- -->
+
+5.  **Lack of Engagement from Some Children in the Mentorship Program\
+    \
+    **One of the significant challenges the mentorship department is facing is the lack of engagement from about 5 children in the mentorship journey. Despite efforts to create a supportive and inclusive environment, the response from the mentees is not receptive, either in terms of improving school grades or different areas of general assignment. This disengagement may stem from various factors, including personal issues at home, a lack of motivation, or difficulty in connecting with mentors
+
+## Budget update
+
+-   Funds used so far in the last 6 months is **Ksh. 281,000 (AUD 2,900)**.This includes cost of the worker in-charge of the program.
+
+<!-- -->
+
+-   The funds for the Program are sufficient and all the costs are within the budget.
+
+## Plans for July to December 2024
+
+1.  **Enhancing Mentorship Diversity and Impact**
+
+    To strengthen and diversify our mentorship program, we will actively promote the recruitment of additional male mentors. This will help broaden the range of experiences and perspectives available to our mentees. Additionally, we will encourage current mentors to expand their impact by considering the mentorship of more than one child, fostering a wider positive influence and enhancing the overall effectiveness of the program.
+
+<!-- -->
+
+2.  **Strengthen Mentorship through Practical Skills and Personal Connection**
+
+    We aim to enhance our mentorship program by establishing intentional mentorship groups that focus on teaching practical skills essential for students' future success. Encourage mentors to strengthen their relationships with mentees by visiting their homes or schools, fostering more personal and meaningful connections that support both personal and academic growth.
+
+<!-- -->
+
+3.  **Optimising Mentorship through online mentorship and Skill Development**
+
+    To support mentors with busy schedules, we will promote online mentorship opportunities using timely reminders and accessible digital platforms. This approach ensures both flexibility for mentors and valuable skill-building for mentees.\
+    \
+    ![](images/2024H1 Mentor Training 1.jpg)
+
+<!-- -->
+
+4.  **Enhancing Mentorship through regular Follow-ups and Co-Mentorship**
+
+    We will ensure that regular follow-ups are conducted on mentorship topics outlined in our records, making relevant information readily available to the mentors for each session. We will promote co-mentorship arrangements for female mentors to provide extra support and shared insights, enriching the mentorship experience and fostering collaborative growth.
+
+<!-- -->
+
+5.  **Organise outdoor and interactive events**
+
+    Organize more outdoor and interactive events or activities aimed at strengthening the bond between mentors and mentees. These events will be designed to facilitate meaningful interactions and create lasting memories, providing opportunities for mentors and mentees to engage in fun and collaborative experiences outside of traditional mentorship settings.\
+    \
+    ![](images/2024H1 Mentor Games 3.jpg)
+
+<!-- -->
+
+6.  **Utilise counselling sessions**
+
+    Emphasize the importance of utilizing counselling sessions to address mentees' personal challenges and support their overall well-being.
+
+![](images/2024H1 Mentor Hangout 4.jpg){fig-align="center"}
+
+## Editor
+
+Dr. David Fong (Monitoring, Evaluation and Learning)
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)
