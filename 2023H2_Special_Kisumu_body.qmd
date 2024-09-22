@@ -1,0 +1,183 @@
+---
+title: "Special Programs (Kisumu)"
+subtitle: "Monitoring & Evaluation, July to December 2023"
+author:
+  - name: Andrew Onyango
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: https://www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=tex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Kinda Girls Team Leader has a discussion with Sue}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+## Kinda Girls Program (school-age mothers)
+
+Kinda Girls program is designed to offer a safe environment for young mothers (mostly teenagers) and empower them to reach their full potential. The name *‘Kinda Girls’* is a Luo word meaning *‘Working hard without giving up’*. The name was chosen as a reflection of what the program is meant to achieve. The program is tailored towards addressing stigma and giving hope to the young teenage mothers who become pregnant and mothers while still in school.
+
+![](images/2023H2 Special Kisumu Teen 1.png){fig-align="center"}
+
+### Activities and Outputs
+
+Twenty (20) girls participated and completed the training sessions, from a field of twenty-eight (28) applicants.
+
+The following topics were undertaken in the last six months: 
+
+-   Listening exercises
+
+    -   Understanding issues leading to teenage pregnancies.
+
+    -   Needs and aspirations of adolescent girls (group and one-on-one sessions).
+
+    -   Exploring challenges faced by young mothers.
+
+-   Sexual and reproductive health
+
+    -   Gender-based violence
+
+-   Interpersonal communication skills
+
+-   Self-esteem, priority setting, accountability
+
+-   Developing skills for economic development: Making liquid soap, bleaching detergent, fabric softener, food preparation.
+
+Kinda Girls held a three day conference themed 'Enlighten and Enrich'. The theme of the conference was 'Enlighten and Enrich'. Different topic areas and activities were carried out in line with the objectives of the program.
+
+-   Activities included:
+
+    -   training, counselling sessions and one-on-one mentorship.
+
+    -   learning skills in making liquid soap, bleaching detergent, fabric softener and food preparation.
+
+    -   making Vision Boards
+
+-   Thirty girls attended the conference.
+
+#### Resources and inputs
+
+-   Spur staff, resources (funds), training facilitators and mentors.
+
+### Outcomes and Impact
+
+Sixteen Kinda girls graduated from the program, willing to go back to school or undertake technical college (TVET) courses and with skills to enable change in behaviour.
+
+Two girls went back to complete high school.
+
+One girl was rescued from early marriage and taken back to complete primary school. She has done her KCPE and passed with 294 marks.
+
+One girl who became a mother due to defilement is now back in school and is entering grade 6 next year.
+
+### Challenges faced in the last six months
+
+Most of the teen mothers are willing to go back to school or join technical (TVET) colleges but they lack the ability to pay school fees.
+
+The girls are having difficulties to access basic needs like sanitary towels and pampers and clothes for their children.
+
+Even though there may be opportunities to go back to school, some of the parents and caregivers of the teenage mothers are not willing to help them take care of children when they go to school.
+
+### Plans for the next six months
+
+-   Have life-skills based training to help empower the young mothers.
+
+-   Look for partnerships within the local community that can offer apprenticeship training.
+
+-   Support the establishment of small-scale businesses with business training.
+
+## Mentorship Programs
+
+### School mentorship sessions
+
+#### Activity and Output
+
+We conducted three group mentorship sessions at Ochok Kadongo primary school. The sessions were conducted with the assistance of the school teachers. About 270 students were in attendance. The topics covered throughout the school term were importance of working hard, menstrual hygiene and self-awareness.
+
+-   All the female students in attendance received a sanitary pack, with the aim of reducing school absenteeism due to lack of sanitary towels when experiencing menstruation.
+
+Spur Afrika conducted twelve weekend mentorship sessions. The weekend mentorship sessions goals are for children to be more confident and have higher self-esteem. By providing alternative and useful activities, the program aims to reduce the number of children engaged in menial weekend work activities such as breaking ballast.
+
+-   The cumulative attendance over the six months was 830 children. The main topics covered were self-awareness, learning from Bible stories and respect for parents and those in authority.
+
+```{=html}
+<!-- -->
+```
+-   The sessions were conducted at the Spur land in Kisumu. We thank God that protection from extreme weather was available through a newly available shade.
+
+-   The sessions were conducted by Spur staff members, and made use of resources such as games materials and refreshments.
+
+-   Activities included counselling, teaching, singing and dancing.
+
+-   As a result of the sessions, children are more confident and have higher self-esteem.
+
+-   The weekend mentorship sessions provide an alternative weekend activity to children being engaged in economic activity such as breaking ballast to make money.
+
+    -   Due to economic strain on some of the children's families, they may be forced to work on weekends so as to receive money for food or other needs.
+
+## Oral hygiene
+
+The program aims to teach school-going children the proper way to brush their teeth and to keep dental problems at bay.
+
+### Activities and outputs
+
+-   Demonstrations of how to properly brush teeth 
+
+    -   Singing teeth-brushing songs 
+
+-   Distribution of brushes and pastes
+
+In the last six months, the program has reached out to our 30 sponsored children.
+
+### Outcomes and impact
+
+-   Our children now know how to brush their teeth and maintain oral hygiene ethics.
+
+    -   Children changed from using ash & salt and are now using toothpaste and toothbrush.
+
+<!-- -->
+
+-   No report on dental problems received from our sponsored children.
+
+-   Spur Afrika is known more to other students and in the larger community because of the program.
+
+### Challenges
+
+The children are not able to replace their toothbrushes in the recommended three (3) months.
+
+There is a need for more toothpaste to reach more children, especially in the lower classes.
+
+## Finances
+
+-   The special programs expenditure totalled Ksh. 87,000 (AUD 8,00).
+
+-   The financial allocation was enough to cover the costs of the program.
+
+## Editors
+
+Dr. David P.S. Fong (Monitoring, Evaluation and Learning)
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)

@@ -33,7 +33,7 @@ format:
 
 Spur Afrika's Mentorship Program, a key part of our Child Sponsorship (Elimisha) progam is dedicated to supporting 157 sponsored children. Through one-on-one sessions and group sessions with responsible adults and peer mentorship the program aims to enhance social skills, expand their understanding of future opportunities, and promote both character and spiritual development. This nurturing approach aligns with Spur Afrika’s mission to transform lives and foster holistic growth in each child.
 
-![](images/2024H1 Mentor Hangout 3.jpg)
+![](images/2024H1%20Mentor%20Hangout%203.jpg)
 
 ## Activities and Outputs
 
@@ -47,7 +47,7 @@ We are proud to announce the milestones reached through the first half of the ye
 
     -   Virtual mentorship sessions are more appealing particularly for mentors who are out of town or have busy schedules. Mentees have also become more comfortable with virtual sessions and have embraced this approach. As a result, the mentor-mentee relationship has strengthened, despite the challenges of distance and time constraints.\
         \
-        ![](images/2024H1 Mentor Hangout 2.jpg)
+        ![](images/2024H1%20Mentor%20Hangout%202.jpg)
 
     -   Virtual mentorship has also played a good role in helping the mentees using this platform to learn more about using computers as well as increase their confidence in the way they express themselves.
 
@@ -65,7 +65,7 @@ We are proud to announce the milestones reached through the first half of the ye
 
     -   Spur Afrika's female staff, in collaboration with a female volunteer mentor, led a mentorship session for the sponsored girls, focusing on hygiene, mental health, and self-empowerment.\
         \
-        ![](images/2024H1 Mentor Games 2.jpg)
+        ![](images/2024H1%20Mentor%20Games%202.jpg)
 
 3.  **Career mentorship**
 
@@ -79,7 +79,7 @@ We are proud to announce the milestones reached through the first half of the ye
 
     -   In January we held a training for volunteer mentors and potential mentors. The training was to assist them in their mentorship journey. Topics that were discussed were improving communication flow, icebreakers, problem-solving skills and mental health.\
         \
-        ![](images/2024H1 Mentor Training 2.png)
+        ![](images/2024H1%20Mentor%20Training%202.png)
 
     -   During the reporting period, we hosted a Mentor and Mentee hangout, where mentors had the chance to interact with children beyond their own mentees. The event was attended by 39 mentors and 115 children from our program.
 
@@ -116,11 +116,10 @@ We are proud to announce the milestones reached through the first half of the ye
 
     The mentorship gap is steadily closing, with 70 dedicated mentors now involved. Some mentors have even taken on multiple mentees. Additionally, there has been an increase in volunteers contributing to various career and group mentorship sessions.\
     \
-    ![](images/2024H1 Mentor Games 4.jpg)
+    ![](images/2024H1%20Mentor%20Games%204.jpg)
 
-```{=html}
 <!-- -->
-```
+
 2.  **Educational and Academic Milestones\
     **
 
@@ -131,7 +130,7 @@ We are proud to announce the milestones reached through the first half of the ye
 3.  **Career Advancement and Proactiveness**
 
     \
-    We have made significant strides in career advancement by partnering with various organizations, especially in the technology sector, to open up a range of career options to our sponsored children. \
+    We have made significant strides in career advancement by partnering with various organizations, especially in the technology sector, to open up a range of career options to our sponsored children.\
     \
     Additionally, there has been a notable increase in student involvement, with children becoming more proactive in engaging with Spur Afrika programs and activities during school breaks. University students, in particular, have shown heightened enthusiasm, not only participating more actively but also seeking out opportunities to acquire new skills.\
 
@@ -145,7 +144,7 @@ We are proud to announce the milestones reached through the first half of the ye
     \
     Mentors have shown exceptional support by offering support and incentives to their mentees. Mitchel covered trip fees for one of her mentees. Martina provided examination sets to her mentees as they prepared for their end-of-year exams. Grace offered her mentee a place to stay during the school holidays, helping to reduce transportation costs to home.\
     \
-    ![](images/2024H1 Mentor Games 1.jpg)
+    ![](images/2024H1%20Mentor%20Games%201.jpg)
 
 ## Challenges faced in the last six months
 
@@ -203,7 +202,7 @@ We are proud to announce the milestones reached through the first half of the ye
 
     To support mentors with busy schedules, we will promote online mentorship opportunities using timely reminders and accessible digital platforms. This approach ensures both flexibility for mentors and valuable skill-building for mentees.\
     \
-    ![](images/2024H1 Mentor Training 1.jpg)
+    ![](images/2024H1%20Mentor%20Training%201.jpg)
 
 <!-- -->
 
@@ -217,7 +216,7 @@ We are proud to announce the milestones reached through the first half of the ye
 
     Organize more outdoor and interactive events or activities aimed at strengthening the bond between mentors and mentees. These events will be designed to facilitate meaningful interactions and create lasting memories, providing opportunities for mentors and mentees to engage in fun and collaborative experiences outside of traditional mentorship settings.\
     \
-    ![](images/2024H1 Mentor Games 3.jpg)
+    ![](images/2024H1%20Mentor%20Games%203.jpg)
 
 <!-- -->
 
@@ -225,7 +224,7 @@ We are proud to announce the milestones reached through the first half of the ye
 
     Emphasize the importance of utilizing counselling sessions to address mentees' personal challenges and support their overall well-being.
 
-![](images/2024H1 Mentor Hangout 4.jpg){fig-align="center"}
+![](images/2024H1%20Mentor%20Hangout%204.jpg){fig-align="center"}
 
 ## Editor
 
