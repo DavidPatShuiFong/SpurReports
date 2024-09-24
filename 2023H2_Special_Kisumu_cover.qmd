@@ -15,7 +15,7 @@ format:
     lof: false
     lot: false
     titlepage: bg-image 
-    titlepage-bg-image: "images/2023H2 Kisumu Special Kinda Leader.png"
+    titlepage-bg-image: "images/2023H2 Special Kisumu Kinda Leader.png"
     titlepage-logo: "images/spur_logo-green.1b847933.png"
     titlepage-geometry: ["top=1in", "bottom=7in", "right=1in", "left=1in"]
     titlepage-theme:
