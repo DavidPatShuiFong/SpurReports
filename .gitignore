@@ -4,3 +4,6 @@
 .Ruserdata
 
 /.quarto/
+*.pdf
+*.tex
+*_body_files/
