@@ -1,0 +1,169 @@
+---
+title: "Mentorship (Kibera)"
+subtitle: "Monitoring & Evaluation, January to June 2025"
+author:
+  - name: Jael Kijala
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: https://www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=latex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : One-on-one mentorship session}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex 
+% and then set in _extensions/.../pagestyle.tex 
+% however, for the very first page we want to describe what is in the cover page
+```
+
+## Introduction
+
+Spur Afrika’s Mentorship Program is a part of the Child Sponsorship Program, designed to empower Spur Afrika’s 160 sponsored children in a holistic way. Holistic Development is promoted through one-on-one mentorship, group mentorship, career guidance and peer led mentorship sessions overseen by responsible committed adults. The structured interventions aim to strengthen social and emotional skills, broaden perspectives and emotional skills, broaden perspectives of future opportunities and encourage character and spiritual growth.
+
+Through tracking and the impact of these engagements, Spur Afrika ensures the program remains responsive, effective and aligned with the organization's Vision of transforming lives, one child at a time.
+
+![](images/2025H1%20Mentorship%20OneOnOne%202.jpeg)
+
+## Activities and Outputs
+
+The first half of 2025 has been a memorable and transformative period in the Mentorship Program. Building on the strong foundations laid in 2024 and beginning of the year 2025, we are excited to share the significant growth and progress we've made. We welcomed three new mentors to our community. This year's mentorship theme, **Filling Our Cups**, has guided Spur Afrika’s efforts to ensure mentors are nurtured and empowered as they continue to pour into the lives of the sponsored children.
+
+January began with the annual mentors’ training, where 55 mentors got to share ideas and learn from each other, equipping them for the year ahead. The training was facilitated by the visiting Mission Team from Australia and shared great insights on the mentorship journey and how to be more supportive to the mentees.
+
+![Training for mentors, team from Australia, January 2025.](images/2025H1%20Mentorship%20Training%202.jpg){fig-align="center"}
+
+In April, we hosted the quarterly mentor-mentee picnic which not only deepened existing relationships but also created space for mentors to interact with other sponsored children in the Elimisha (sponsorship) program. The interactive day had 30 mentors, 6 parents and 105 children in attendance. It was a great time of play, learning and encouragement. This activity gave an opportunity for the mentors to interact with each other and motivate each other in their mentorship journeys. The parents of the sponsored children who attended the activity were very happy to get to share a time of play and learning with their children
+
+-   **One-on-One Mentorship Meetings**
+
+    -   Between January and June, 67 sponsored children had one-on-one mentorship meetings, with a total of 80 sessions held during this period. April recorded the highest number of sessions, taking advantage of the school holiday, followed by February and June, which aligned with school mid-term breaks.
+
+    -   Most of the mentorship sessions were held at the Spur Centre. Three (3) sessions were held virtually and 12 meetings happened in different places that the mentors took their mentees: Animal Orphanages, lunch dates and picnic sites. Two mentees had special treats from their mentors on their birthdays.
+
+    ![](images/2025H1%20Mentorship%20OneOnOne%201.jpeg)
+
+-   **Group Mentorship**
+
+    Group mentorship sessions have continued to play a vital role in reaching children who currently do not have a mentor assigned to them. In the period of this report Spur Afrika held:
+
+    -   Five group mentorship at the Spur centre (2 for high school students, 1 boys only session, 1 girl’s only session, 1 junior high school students.)
+
+    -   In one of the high school mentorship sessions, the team used group cooking as a creative and engaging way to teach the importance of teamwork. During the separate boys’ and girls’ sessions, the discussions focused on topics such as identity and an introduction to financial literacy, allowing our sponsored children to reflect on who they are and where they want to be.
+
+-   **Career mentorship**
+
+    As the sponsored children prepare to transition into university, college and vocational training, career mentorship has served as a valuable guide, helping them navigate the different paths available and make informed choices about their future.
+
+    -   We held three career mentorship sessions in partnership with Christine, a Career Coach. These sessions focused on sharing information on career decisions, how to narrow down to areas of interest and the importance of staying diligent and consistent in building a sustainable career.
+
+    ![](images/2025H1%20Mentorship%20Career.jpeg)
+
+-   **INKSPIRE: Promoting a reading culture**
+
+    INKSPIRE (drawn from the words Ink and inspire) is a reading and literature mentorship session designed to help children build confidence in public speaking and enhance their reading and writing skills.
+
+    Spur Afrika held three Inkspire reading sessions for our sponsored children who are currently in Junior Secondary School. The sessions involved reading, learning how to write essays, spelling bees and practicing public speaking.
+
+    ![](images/2025H1%20Mentorship%20Inkspire.jpeg)
+
+-   **Mental wellness sessions\
+    \
+    **“Mental health is wealth”. Over the past six months, we’ve been intentional about creating safe spaces where our children can express themselves, reflect, and receive support.
+
+    ![](images/2025H1%20Mentorship%20Mental%20Wellness.jpeg)
+
+    -   We held two group mental wellness sessions in partnership with one of our volunteer mentors, through his organization Ahura Circle and Nairobi Chapel Karen. These sessions were instrumental in deepening our connection with the children and gaining a better understanding of their emotional and mental well-being.There was improved attendance of mentors in the training between June and December compared to January 2024.
+
+## Outcomes and Impacts
+
+1.  **Build Mentor-Mentee relationships**
+
+    Existing mentors took on new mentees, expanding the opportunity for impact through mentorship.\
+    Mentors increased their participation in Mentors Market Day.\
+    Greater intentionality from mentors and mentees through school, home and workplace visits. Improved communication flow and relationships between mentors and mentees.\
+    University and college students increased participation in peer mentorship of younger children.
+
+    ![Mentorship cook-out](images/2025H1%20Mentorship%20Cookout.jpeg)
+
+<!-- -->
+
+2.  **Confidence, self-awareness and experiences for mentees**
+
+    Group wellness sessions led to increased self-awareness e.g. through children reflecting by writing letters to their younger selves.\
+    Noticeable boost in children's confidence and improved experiences and exposure for children. \[A\], once a shy girl, now expresses herself openly. \[B\] visited a mall for the first time. \[C\] visited the city for the first time.\
+    Improvement in grooming, hygiene and discipline. Spur children are showing greater responsibility and maturity in their daily lives.
+
+3.  **Marked improvement in reading and writing skills**
+
+4.  **More students enrolling to college or university as the result of career awareness**
+
+## Challenges faced in the last six months
+
+1.  **Need for more male mentors**
+
+2.  **A significant decline in mentors attending group sessions**
+
+3.  **Tight school schedules**
+
+    Tight school schedules continue to pose a challenge, making it difficult for mentors to meet their mentees regularly, despite their willingness to do so.
+
+4.  **Tough economic climate**
+
+    The current tough economic climate has impacted some of our mentors, especially those in business or who have recently lost jobs, which may affect their availability and overall mentorship engagement.
+
+## Budget update
+
+-   Funds used in the last six months are **Ksh. 408,000 (AUD 4,800)**.
+-   The funds allocated are sufficient and all program expenses are within the 2025 budget.
+-   The projected expenses for the next six months is **Ksh. 400,000 (AUD 4,700)**.
+
+## Plans for July to December 2025
+
+1.  **Enhancing mentorship diversity**
+
+    Continue to scout for and recruit more male mentors, encouraging existing mentors (both male and female) to pick up more than one mentee.
+
+2.  **Encouraging mentorship support and numbers**
+
+    Make use of group and one-on-one mental wellness sessions. Form a reward system for both mentors and mentees to build motivation.
+
+    ![Training for mentors, January 2025](images/2025H1%20Mentorship%20Training%201.jpg)
+
+3.  **Maximizing mentor skills for mentee support**
+
+    Continue to encourage mentors to build strong and intentional relationships with mentees. Add more 'get to know me' files as a tool for mentorship sessions and encourage both parties to use.
+
+4.  **Organise interactive events**
+
+    Make mentorship groups intentional and invite mentors to join. We can teach students practical skills which can help them in the future. Hold more hangouts and activities that bring mentors and mentees together.\
+    Invite more professionals to help us in the career development and mapping stage of our children.\
+    \
+    ![](images/2025H1%20Mentorship%20MM%20hangout.jpg)
+
+## Editor
+
+Dr. David Fong (Monitoring, Evaluation and Learning)
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)
