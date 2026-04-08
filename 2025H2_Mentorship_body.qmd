@@ -1,0 +1,179 @@
+---
+title: "Mentorship"
+subtitle: "Monitoring & Evaluation, July to December 2025"
+author:
+  - name: Jael Kijala Orwa
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: https://www.spurafrika.org
+format:
+  html: 
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=latex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Mentorship home visit}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex 
+% and then set in _extensions/.../pagestyle.tex 
+% however, for the very first page we want to describe what is in the cover page
+```
+
+## Introduction
+
+The Mentorship Program is a core pillar of Spur Afrika’s Child Sponsorship (Elimisha) Program, designed to support the holistic development of 160 sponsored children through structured one-on-one, group or peer-led mentorship. The program strengthens children’s mental, emotional, physical, and social well-being while expanding exposure to future opportunities and nurturing positive character and spiritual growth. Through continuous monitoring and learning, Spur Afrika ensures the program remains responsive and impactful. Through tracking and the impact of these engagements, Spur Afrika ensures the program remains responsive, effective and aligned with the organization's Vision of transforming lives, one child at a time.
+
+July to December marked a period of meaningful growth and learning within the Mentorship Program. Building on foundations laid in the beginning of the year, the program recorded progress across mentor recruitment, engagement, child exposure, and outcomes.
+
+![Individual mentorship](images/2025H2 Mentorship OneToOne.png){fig-align="center"}
+
+Highlights during the reporting period included the mental wellness sessions, where children gained increased awareness of their mental health and learned practical coping strategies to support the learner’s well-being in school and life’s transitions. 
+
+## Activities and Outputs
+
+### One on One Mentorship Sessions
+
+**37 sponsored children** had mentorship sessions between July and December 2025. Some children had more than one mentorship session, resulting in a total of 50 mentorship sessions.  
+
+Most sessions were during the July - August school holidays, when school was closed. Most sessions were held at the Spur Centre, while others were conducted virtually or in community settings outside the Centre. Spur Afrika facilitated sessions through schedules, transportation and digital tools.
+
+![Visiting the mentor's office](images/2025H2 Mentorship OfficeVisit.png){fig-align="center"}
+
+Spur Afrika also introduced **school, home and workplace visits** as part of the one-on-one mentorship approach. Several mentees had the opportunity to visit their mentors’ workplaces, while mentors visited mentees’ homes and schools. These visits significantly strengthened relational bonds, deepened mutual understanding and enhanced the quality of mentor–mentee engagement.
+
+### Group and Peer Mentorship
+
+Group mentorship provides structured support for children without assigned mentors and for those requiring additional guidance.
+
+A total of seven group mentorship sessions were held at the Spur Centre**:** two sessions for all children**,** two sessions for boys, two sessions for girls and one joint group session held with children from the Kisumu program.
+
+Gender-specific sessions focused on key developmental themes, including identity formation and introductory financial literacy. These sessions enabled children to reflect on personal values, self-awareness, and responsible decision-making. 
+
+#### Crossover 001
+
+Crossover 001 is a transitional mentorship initiative designed to support sponsored children as they move into senior school (starting in Year 10). One Crossover 001 session was conducted with 13 of the sponsored children preparing to join Secondary school in 2026. The session was conducted by Spur Staff and a few volunteers at the Spur Center . Topics covered included leadership, vision building through vision boards, time management, choosing friends and learning how to set value-based boundaries.
+
+![Crossover 101](images/2025H2 Mentorship Crossover 001a.png){fig-align="center"}
+
+#### Peer-led mentorship
+
+In line with the objective of increasing peer-led mentorship sessions, two mentorship sessions at the Spur Centre were facilitated by older Spur Learners who are currently in higher learning institutions. We plan on growing the engagement of Spur students in University as a way of building a strong Spur community from the students who have benefited from Spur Afrika Programs. 
+
+### Career mentorship
+
+Career mentorship supports children under our college fund set to transitioning to university/college.
+
+Four career mentorship sessions were conducted.
+
+-   In partnership with Deloitte Australia, children engaged with professionals from diverse career fields and gained insights into various career pathways. The session was conducted at the Spur Centre through a video conference.
+
+-   A former Spur Afrika staff member, Maureen, shared practical guidance in the context of her professional journey.  
+
+-   Elvis, one of the Spur Afrika team members, led a career mentorship session guiding children on the basic operation and use of a camera, offering hands-on exposure to creative and technical skill development. 
+
+-   A partner from Kenyatta University conducted a session for parents and caregivers. The session strengthened parents’ understanding of their role in supporting their children during educational and life transitions.
+
+### Mental wellness sessions
+
+Spur Afrika, through a new partnership with one of our volunteer mentors and her organization Endeleo Counselling Therapy, has held sessions to support sponsored children mental wellness and mental health awareness. We held one group mental wellness session and one-on-one counselling sessions. The sessions used reflection materials and monitoring tools. These sessions created safe spaces for reflection and emotional expression. The sessions also helped Spur Afrika better understand and respond to the children’s mental and emotional needs.
+
+### **Mentor Recruitment and Capacity Building** 
+
+Four male mentors were recruited into the mentorship program (which now has a total of seventy mentors), directly addressing the previously identified gap in male mentorship representation. This addition has enhanced gender balance within the mentorship pool, providing boys with positive and relatable role models. Recruitment was supported by outreach materials, application forms and referrals from existing mentors.
+
+![](images/2025H2 Mentorship Mentor Hangout 2.png){fig-align="center"}
+
+Spur Afrika held its annual end-of-year mentors’ hangout, which served as a platform for networking, reflection and mutual learning. The hangout – with refreshments – was held at the Spur Afrika Centre with the assistance of discussion guides and a facilitator supported by the Spur Afrika team. The session created space for mentors to debrief on their experiences throughout the year, share lessons learned, and strengthen peer support.
+
+#### Mentor engagement and economic empowerment  
+
+Mentor engagement extended beyond mentorship sessions into economic and networking spaces. Spur Afrika intentionally supported mentors by engaging with their businesses through networking opportunities and participation in the Mentors’ Market Day, strengthening relationships between the organization and mentors while promoting sustainability and mutual support. 
+
+![](images/2025H2 Mentorship Mentor Hangout.png){fig-align="center"}
+
+## Outcomes
+
+-   **Improved gender representation among mentors and provision of relatable role models for boys**, with mentees demonstrating increased self-confidence and positive identity development as he transitions into adolescence through consistent interaction with male mentors. 
+
+-   **Enhanced mentor–mentee relationships characterized by trust and individualized guidance**, with workplace visits exposing mentees to corporate and business environments and deepening their understanding of professional life through mentors lived experiences.
+
+-   **Children acquired essential life skills**, including leadership, vision-setting, time management, digital literacy, identity formation, and basic financial literacy, strengthening their readiness for academic and life transitions. 
+
+-   **Notable growth in children’s confidence and exposure**, more children are demonstrating positive behavioral change, improved self-belief, and increased engagement in learning following consistent mentorship support. 
+
+-   **Increased awareness of career pathways, practical skill development, and emotional well-being among children**, supported through career mentorship, hands-on learning, and mental wellness sessions. 
+
+-   **Parents and caregivers gained increased understanding of career pathways and transition processes**, following a dedicated career mentorship session, enabling them to better support their children as they navigate the transition to college and university.
+
+-   **Strengthened mentor capacity, motivation, and peer support networks**, enabling mentors to remain engaged, reflective, and effective in supporting children’s holistic development.
+
+-   **Mentors experienced professional and economic growth through networking opportunities and business engagement**, contributing to increased mentor commitment, sustainability, and long-term involvement in the program.
+
+## Impacts
+
+-   ​​​**Sustained positive identity formation and confidence among children, particularly boys**, as consistent access to relatable male role models supports healthy
+    adolescence, self-belief, and long-term psychosocial development, as evidenced in the outcomes.
+
+-   **Increased emotional resilience and well-being among children**, supported by trusted mentor relationships and mental wellness interventions, leading to healthier coping mechanisms and sustained engagement in learning and personal growth.
+
+    ![Crossover 101](images/2025H2 Mentorship Crossover 001b.jpeg)
+
+-   **Children demonstrate long-term career readiness and aspiration**, with early exposure to corporate, entrepreneurial, and creative environments shaping realistic career goals, work ethic, and openness to opportunity, as seen in mentees such as Rakamba.
+
+-   **Improved educational transitions and family support systems**, as parents and caregivers are better equipped to guide children through college and university pathways, strengthening home-based support and reducing transition-related stress.
+
+-   **Enhanced life skills and employability potential among children**, with leadership, digital literacy, financial awareness, and creative skills contributing to adaptability, problem-solving capacity, and preparedness for future education and employment. 
+
+-   **A resilient, high-quality mentorship ecosystem is institutionalized**, where well-supported, motivated mentors provide consistent guidance, resulting in durable, trust-based relationships that positively influence children’s behavior, aspirations, and life
+    choices.
+
+-   **Mentor sustainability and economic empowerment contribute to program longevity**, as mentors’ professional growth and business networking 
+
+## Challenges faced in the last six months
+
+-   **A significant decline in the number of mentorship sessions** compared to the first half of the year, largely influenced by reduced availability of mentors during the reporting period.
+
+-   **Reduced consistency in mentor participation** in both group mentorship activities and one-on-one sessions, affecting the regularity of engagement for some children. 
+
+<!-- -->
+
+-   **Mentors undergoing personal and professional transitions**, including changes in employment and increased workload demands, which limited their ability to meet consistently with their assigned mentees.
+
+-   **Tight mentor schedules constrained flexibility**, resulting in postponed or cancelled sessions and reduced frequency of interactions during peak periods.
+
+-   **Inconsistent mentorship engagement weakened continuity in mentor–mentee relationships**, leading to temporary disruptions in trust-building and momentum in some mentorship pairings. 
+
+## Plans for July to December 2026
+
+-   Continue to encourage mentors to be consistent in meeting their mentees 
+
+-   Grow the Spur Alumni mentorship resource 
+
+-   Offer support to the mentors through continuous training and interactions
+
+![Mentorship home visit](images/2025H2 Mentorship HomeVisit 1.png){fig-align="center"}
+
+## Editor
+
+Dr. David Fong (Monitoring, Evaluation and Learning)
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)
