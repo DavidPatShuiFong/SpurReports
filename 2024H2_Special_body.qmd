@@ -20,20 +20,20 @@ format:
   \fancyhf{}
   \renewcommand\headrulewidth{0pt}
   \fancyfoot[R]{\thepage}
-  \fancyfoot[C]{\em{Cover picture : Two students enthusiastically learning from one another in the Coding Program}}
+  \fancyfoot[C]{\em{Cover picture : Ri-Ki competition -- Students showcasing the drawings showing their solution for climate issues}}
   \fancyfootoffset{3.5cm}
 }
 \thispagestyle{myCoverStyle}
 
-\% the default style is defined in \_extensions/nrennie/PrettyPDF/PrettyPDF.tex % and then set in \_extensions/.../pagestyle.tex % however, for the very first page we want to describe what is in the cover page
-
 ## RI-KI
 
-RI-KI (Read It Know It) is an educative program with the objective to grow the reading culture and to help build children’s confidence and courage in self-expression in children from an early age, more so in underserved communities like Kibera. 
+RI-KI (Read It Know It) is an educative program with the objective to grow the reading culture and to help build children’s confidence and courage in self-expression in children from an early age, more so in underserved communities like Kibera.
 
-The event involves coordinated themed competition events (trivia questions, choral verses, themed artwork, traditional dances etc.) that are held twice a year. 
+The event involves coordinated themed competition events (trivia questions, choral verses, themed artwork, traditional dances etc.) that are held twice a year.
 
-Spur Afrika held phase II of the RI-KI competition in Kibera (KAG Educational Centre) with attendance from 7 schools. The event’s theme was **Climate Action** (Sustainability Development Goal 13), teaching children that they are capable of making positive change by themselves in their particular surrounding. The schools had 15-20 children per school preparing various activities based on the theme. Among the judges of the competition was an environmental conservatist from Octavia Carbon and the head of the Rowallan Scouts Camp.
+Spur Afrika held phase II of the RI-KI competition in Kibera (KAG Educational Centre) with attendance from 7 schools. The event’s theme was **Climate Action** (Sustainable Development Goal 13), teaching children that they are capable of making positive change by themselves in their particular surrounding. The schools had 15-20 children per school preparing various activities based on the theme. Among the judges of the competition was an environmental conservatist from Octavia Carbon and the head of the Rowallan Scouts Camp.
+
+![A student reading a presentation they prepared for the Ri-Ki competition](images/2024H2 Special Riki presentation.jpg){fig-align="center"}
 
 #### Input and Resources
 
@@ -49,11 +49,11 @@ Spur Afrika held phase II of the RI-KI competition in Kibera (KAG Educational Ce
 
 -   7 schools and 300 students (participants and supporters) participated.
 
--   Three schools with. the highest marks in the art work presentations, trivia and choral verses received trophies.
+-   The three schools with the highest marks in the art work presentations, trivia and choral verses received trophies.
 
--   More students participated in the different activities compared to last RI-KI events.
+-   More students participated in the different activities compared to the previous RI-KI events.
 
--   All participating students received a price which was a brush and toothpaste (courtesy of our partners Colgate). 
+-   All participating students received a prize which was a brush and toothpaste, courtesy of our partners Colgate. 
 
 ### Outcome and Impact
 
@@ -63,7 +63,9 @@ Spur Afrika held phase II of the RI-KI competition in Kibera (KAG Educational Ce
 
 ## Coding Program
 
-With the rise in technology, there is need to train the children to enable them have a familiarity with in-demand computer skill or even a competitive advantage. Twenty of the pre-teens and teenage students being sponsored by Spur Afrika embarked in participating in learning coding through the Python language. Recently, five more of the children joined in, having learnt different ways of coding including game design using Scratch. The Children were taught by an engineer from Code With Kids, the sessions were held at the Spur Afrika Centre. Coding projects included game design and robotics.
+With the rise in technology, there is need to train the children to enable them have a familiarity – or even a competitive advantage – with in-demand computer skills. Twenty of the pre-teens and teenage students being sponsored by Spur Afrika embarked in participating in learning coding through the Python language. Recently, five more of the children joined in, having learnt different ways of coding including game design using Scratch. The children were taught by an engineer from Code With Kids, the sessions were held at the Spur Afrika Centre. Coding projects included game design and robotics.
+
+![Niko listening to one of the Spur Afrika students at the "Enjoy AI" coding competition](images/2024H2 Special Coding AI.jpg){fig-align="center"}
 
 ### Activities and Outputs
 
@@ -73,7 +75,7 @@ With the rise in technology, there is need to train the children to enable them 
 
 -   Game design classes
 
--   Coding - Enjoy AI Competition
+-   Coding – Enjoy AI Competition
 
     -   4 of the children attended a robotics and coding competition
 
@@ -97,23 +99,29 @@ With the rise in technology, there is need to train the children to enable them 
 
 -   It is expected that some of the 25 students who participated in the coding program have great potential of choosing a career based on their coding skills.
 
+![Students learning how to code with teachers at "Code with Kids"](images/2024H2 Special Coding.jpg){fig-align="center"}
+
 #### Challenges
 
 The coding program is growing quickly since more children are interested in the program. There needs to be enough computers for the children to practice what they are learning.
 
-## Chess classes and Chest tournament
+## Chess classes and Chess tournament
 
 #### Activities and Output
 
-Chess is a game that helps children broaden their thinking and exposes them to idea generation at an early stage. Spur Afrika held chess classes at the Spur Afrika Centre during the holidays interested students. Ten training classes were held. Eighteen students participated in chess classes. The classes were taught by 5 trainers from Passion Driven Chess Club.  
+Chess is a game that helps children broaden their thinking and exposes them to idea generation at an early stage. Spur Afrika held chess classes at the Spur Afrika Centre during the holidays for interested students. Ten training classes were held. Eighteen students participated in chess classes. The classes were taught by 5 trainers from Passion Driven Chess Club.
 
-At the end of the year in November, Spur Afrika, in conjunction with the Passion Driven Chess Club and 18 volunteers (including Spur Afrika staff), held a Chess Tournament at a nearby school (KAG Primary School). 96 children participated from different chess clubs in the area. All participants got certificates of participation. The best three children in each category (Under-10, Under-12, Under-14 and Under-18) all received a medal and gifts. One girl from Spur Afrika received a medial for being one of the best in the under-14 category for girls. The best overall also were awarded a water bottle donated by a friend of the partners. The partners also helped get the chess boards and medals to compete.
+At the end of the year in November, Spur Afrika, in conjunction with the Passion Driven Chess Club and 18 volunteers (including Spur Afrika staff), held a Chess Tournament at a nearby school (KAG Primary School). 96 children participated from different chess clubs in the area. All participants received certificates of participation. The best three children in each category (Under-10, Under-12, Under-14 and Under-18) all received a medal and gifts. One girl from Spur Afrika received a medial for being one of the best in the under-14 category for girls. The best overall also were awarded a water bottle donated by a friend of the partners. The partners also helped get the chess boards and medals for the competition.
+
+![Chess tournament at the KAG Primary School](images/2024H2 Special Chess Tournament.jpg){fig-align="center"}
 
 #### Outcomes and Impact
 
-Through training, the children gained basic knowledge on chess and the rules that apply to chess. The students enjoyed the training sessions and gained confidence in playing chess. The children were challenged and motivated to become skilled chess players.
+Through training, the children gained basic knowledge of chess and the rules that apply to chess. The students enjoyed the training sessions and gained confidence in playing chess. The children were challenged and motivated to become skilled chess players.
 
 The chess tournament brought a feeling of togetherness and partnership for a good cause and also the chance of children to actively learn from each other and challenging one another.
+
+![Winner of the under-10 chess category receiving his award](images/2024H2 Special Chess award.jpg){fig-align="center"}
 
 The children gained confidence and boldness in decision-making through critical thinking. Training in focus and discipline will improve their school work.
 
@@ -131,19 +139,25 @@ The trainings happen in 3 phases where the trainees receive wholesome learning a
 
 15 people registered for and attended the business training through a four-month period. Nine trainers from Iowa helped facilitate the program, assisted by Spur Afrika staff and volunteers. 13 of the 15 trainees finished up to Phase 3, graduated and received a certificate. Five of the business people received loans and were appreciative of the boost to make their businesses better.
 
+![Sue teaching a class on financial management at Msingi/BAM](images/2024H2 Special Msingi 1.jpg){fig-align="center"}
+
 #### Outcome and Impact
 
-The trainees enjoyed the sessions and all learnt how to do business well and maintain good standards. They appreciated the record keeping which they started in their businesses.
+The trainees enjoyed the sessions and all learnt how to do business well and maintain good standards. They appreciated the skill of record keeping which they started in their businesses.
 
 As the result of training and empowerment to do business for profit there will be a reduction in poverty.
 
+![Graduation day of the BAM training class](images/2024H2 Special Msingi 2 Graduation.jpg){fig-align="center"}
+
 ## Budget update
 
--   The budget for all the special programs cost was **Shs. 600,000/ AUD 7,100**. This includes the cost of one worker. The Business training costs were funded by the facilitators.
+-   The budget for all the special programs cost was **Shs. 600,000/AUD 7,100**. This included the cost of one worker. The business training costs were funded by the facilitators.
 
 ## Plans for the next six months
 
--   Spur Afrika Medical camp to be held at the beginning of year, January 2025.
+-   Spur Afrika Medical camp to be held at the beginning of the year, January 2025.
+
+![Spur Afrika chess class receive their certificates](images/2024H2 Special Chess certificates.jpg){fig-align="center"}
 
 ## Editor
 
