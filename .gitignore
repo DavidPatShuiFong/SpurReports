@@ -8,3 +8,4 @@
 *.tex
 *_body_files/
 **/*.quarto_ipynb
+.positai
