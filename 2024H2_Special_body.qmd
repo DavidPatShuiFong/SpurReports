@@ -33,7 +33,7 @@ The event involves coordinated themed competition events (trivia questions, chor
 
 Spur Afrika held phase II of the RI-KI competition in Kibera (KAG Educational Centre) with attendance from 7 schools. The event’s theme was **Climate Action** (Sustainable Development Goal 13), teaching children that they are capable of making positive change by themselves in their particular surrounding. The schools had 15-20 children per school preparing various activities based on the theme. Among the judges of the competition was an environmental conservatist from Octavia Carbon and the head of the Rowallan Scouts Camp.
 
-![A student reading a presentation they prepared for the Ri-Ki competition](images/2024H2 Special Riki presentation.jpg){fig-align="center"}
+![A student reading a presentation they prepared for the Ri-Ki competition](images/2024H2%20Special%20Riki%20presentation.jpg){fig-align="center"}
 
 #### Input and Resources
 
@@ -65,7 +65,7 @@ Spur Afrika held phase II of the RI-KI competition in Kibera (KAG Educational Ce
 
 With the rise in technology, there is need to train the children to enable them have a familiarity – or even a competitive advantage – with in-demand computer skills. Twenty of the pre-teens and teenage students being sponsored by Spur Afrika embarked in participating in learning coding through the Python language. Recently, five more of the children joined in, having learnt different ways of coding including game design using Scratch. The children were taught by an engineer from Code With Kids, the sessions were held at the Spur Afrika Centre. Coding projects included game design and robotics.
 
-![Niko listening to one of the Spur Afrika students at the "Enjoy AI" coding competition](images/2024H2 Special Coding AI.jpg){fig-align="center"}
+![Niko listening to one of the Spur Afrika students at the "Enjoy AI" coding competition](images/2024H2%20Special%20Coding%20AI.jpg){fig-align="center"}
 
 ### Activities and Outputs
 
@@ -99,7 +99,7 @@ With the rise in technology, there is need to train the children to enable them 
 
 -   It is expected that some of the 25 students who participated in the coding program have great potential of choosing a career based on their coding skills.
 
-![Students learning how to code with teachers at "Code with Kids"](images/2024H2 Special Coding.jpg){fig-align="center"}
+![Students learning how to code with teachers at "Code with Kids"](images/2024H2%20Special%20Coding.jpg){fig-align="center"}
 
 #### Challenges
 
@@ -113,7 +113,7 @@ Chess is a game that helps children broaden their thinking and exposes them to i
 
 At the end of the year in November, Spur Afrika, in conjunction with the Passion Driven Chess Club and 18 volunteers (including Spur Afrika staff), held a Chess Tournament at a nearby school (KAG Primary School). 96 children participated from different chess clubs in the area. All participants received certificates of participation. The best three children in each category (Under-10, Under-12, Under-14 and Under-18) all received a medal and gifts. One girl from Spur Afrika received a medial for being one of the best in the under-14 category for girls. The best overall also were awarded a water bottle donated by a friend of the partners. The partners also helped get the chess boards and medals for the competition.
 
-![Chess tournament at the KAG Primary School](images/2024H2 Special Chess Tournament.jpg){fig-align="center"}
+![Chess tournament at the KAG Primary School](images/2024H2%20Special%20Chess%20Tournament.jpg){fig-align="center"}
 
 #### Outcomes and Impact
 
@@ -121,7 +121,7 @@ Through training, the children gained basic knowledge of chess and the rules tha
 
 The chess tournament brought a feeling of togetherness and partnership for a good cause and also the chance of children to actively learn from each other and challenging one another.
 
-![Winner of the under-10 chess category receiving his award](images/2024H2 Special Chess award.jpg){fig-align="center"}
+![Winner of the under-10 chess category receiving his award](images/2024H2%20Special%20Chess%20award.jpg){fig-align="center"}
 
 The children gained confidence and boldness in decision-making through critical thinking. Training in focus and discipline will improve their school work.
 
@@ -139,7 +139,7 @@ The trainings happen in 3 phases where the trainees receive wholesome learning a
 
 15 people registered for and attended the business training through a four-month period. Nine trainers from Iowa helped facilitate the program, assisted by Spur Afrika staff and volunteers. 13 of the 15 trainees finished up to Phase 3, graduated and received a certificate. Five of the business people received loans and were appreciative of the boost to make their businesses better.
 
-![Sue teaching a class on financial management at Msingi/BAM](images/2024H2 Special Msingi 1.jpg){fig-align="center"}
+![Sue teaching a class on financial management at Msingi/BAM](images/2024H2%20Special%20Msingi%201.jpg){fig-align="center"}
 
 #### Outcome and Impact
 
@@ -147,7 +147,7 @@ The trainees enjoyed the sessions and all learnt how to do business well and mai
 
 As the result of training and empowerment to do business for profit there will be a reduction in poverty.
 
-![Graduation day of the BAM training class](images/2024H2 Special Msingi 2 Graduation.jpg){fig-align="center"}
+![Graduation day of the BAM training class](images/2024H2%20Special%20Msingi%202%20Graduation.jpg){fig-align="center"}
 
 ## Budget update
 
@@ -157,7 +157,7 @@ As the result of training and empowerment to do business for profit there will b
 
 -   Spur Afrika Medical camp to be held at the beginning of the year, January 2025.
 
-![Spur Afrika chess class receive their certificates](images/2024H2 Special Chess certificates.jpg){fig-align="center"}
+![Spur Afrika chess class receive their certificates](images/2024H2%20Special%20Chess%20certificates.jpg){fig-align="center"}
 
 ## Editor
 
