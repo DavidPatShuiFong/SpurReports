@@ -15,6 +15,8 @@ format:
     papersize: a4
     keep-tex: true
     toc: true
+    header-includes:
+      - \usepackage{wrapfig}
 ---
 
 ```{=latex}
@@ -34,6 +36,7 @@ format:
 ```{=latex}
 \begin{figure}[h]
 \centering
+\vspace{3em}
 \includegraphics[width=\linewidth]{images/2025 Annual SpurAfrika Kenya Team.jpg}
 \caption*{\footnotesize \textbf{Spur Afrika Kenya team}\newline\textbf{First row} (Right to left) Harry Kigani (Children Worker) Elroy Koko (Volunteer) Nicole Bilha (Kisumu Children Worker) Sylvia Kenda (Special Programs Coordinator) Evans Katunyi (Volunteer) Gaudencia Bosibori (Volunteer) Brian Masaranga (Volunteer) \textbf{Second row} (Right to left) Patrick Achola (Managing Director) Rodgers Kaduki (Volunteer) Nicholas Kengora (Children Program Manager) Prudence Odanga (Volunteer) Lucy Adema (Volunteer) Kennedy Ambani (Children Program Worker) Susan Ojuki (Deputy Director \& Administrator) Euphamia Ayoo (Volunteer) Jael Kijala (Communications and Mentorship Coordinator) Winfred Ogada (Kisumu Children Worker) (Not pictured) Elvis Mokaya - Communications and Mentorship Officer}
 \end{figure}
@@ -50,16 +53,28 @@ The year 2025 demonstrated the power of partnership as our programs continued to
 It is always a highlight to be able to visit Kenya and bring along a team.  2025 started well with our team from Melbourne going to Kenya.  Myself, David and two speech pathologists, Maddie and Olivia, formed the team visiting from Melbourne.  We ran our annual medical clinic, mentors’ day training and other activities in partnership with the local Kenyan team.  It was especially meaningful as we met up with our Melbourne friend Jonathan in Nairobi.  Together we went to new places and took some of the Spur team to a Chinese restaurant -- in one of Nairobi's "Chinatowns" -- the first time that some of the Kenyan Spur team had eaten at a Chinese restaurant.
 
 ```{=latex}
-\begin{figure}[h]
+\begin{wrapfigure}{r}{0.5\linewidth}
 \centering
+\vspace{-1em}
 \includegraphics[width=\linewidth]{images/2025 Annual January Team.jpg}
 \caption*{\footnotesize Spur Afrika Australia team in Kenya, January 2025}
-\end{figure}
+\vspace{-2em}
+\end{wrapfigure}
 ```
 
 Our time in Kenya was very special and we are so thankful for the local Spur team for sharing their everyday lives with us. 
 
 Firstly, I am thankful for our Kenyan team, Australian operations and board members.  Without a local Kenyan team, Spur would not be able to function.  Under the leadership of Patrick and Sue, Spur Afrika continued their work in Kibera, Nairobi, while also continuing their work in a rural community, Kisumu.  We are blessed to be able to partner and grow Spur Afrika over the last 13 years.  Spur Afrika now has 2 sites, 6 programs and 9 local workers.  We are thankful for the opportunity to see many people come to witness Jesus’s compassion and love through Spur’s work.  We are looking forward to the year ahead and praying for more people to visit Kenya as well as being involved with Spur Afrika.        
+
+```{=latex}
+\begin{wrapfigure}{r}{0.5\linewidth}
+\centering
+\vspace{-1em}
+\includegraphics[width=\linewidth]{images/2025 Annual Chinatown.jpg}
+\caption*{\footnotesize Chinatown in Nairobi, Spur Australia team and Kenyan team, January 2025}
+\vspace{-2em}
+\end{wrapfigure}
+```
 
 While in Australia, we have an amazing operations team that continue to not only raise awareness for Spur Afrika but run all the necessary logistic matters. Without our volunteers we couldn’t be able to raise funds and keep Spur going. Thank you to anyone who has donated or fund-raised for us! A special thank you goes to Catherine To, Rachel Ung and Naomi Chin for their dedication in completing communications and admin tasks.  Additionally, we thank our finance team lead by Ryan Chiam for their meticulous and vital work.  
 
@@ -85,13 +100,7 @@ While in Australia, we have an amazing operations team that continue to not only
 
 Finally, I continue to be thankful, grateful and completely in awe of the support that many have given to Spur Afrika.  Despite being a small organization and not having paid staff in Melbourne, we have achieved great things.  A special mention goes to our partnered churches, Balwyn Wesleyan Methodist Church and Melbourne Chinese Baptist Church.  Thank you to Little Birds Allied Health and Lewis real estate for their ongoing sponsorship. Ultimately, we thank God for his providence, without him we are nothing.       
 
-```{=latex}
-\begin{figure}[h]
-\centering
-\includegraphics[width=\linewidth]{images/2025 Annual Chinatown.jpg}
-\caption*{\footnotesize Chinatown in Nairobi, Spur Australia team and Kenyan team, January 2025}
-\end{figure}
-```
+{{< pagebreak >}}
 
 ## Message from Board Member
 
@@ -118,6 +127,14 @@ A Bible verse that has encouraged me this year is from 2 Corinthians 9:6:
 
 This reminds us that when we give generously -- whether it is our time, our skills, or our resources -- good things grow. God has blessed us so that we can bless others, and it is an honour to give into the mission He has started at Spur Afrika.
 
+```{=latex}
+\begin{figure}[h]
+\centering
+\includegraphics[width=\linewidth]{images/2025 Annual Camp Study.jpg}
+\caption*{\footnotesize Bible study at camp}
+\end{figure}
+```
+
 I am thankful for every child we support, every staff member who serves, every leader in Kenya who guides the work, and every supporter and partner who believes in this mission. Together, we are helping create a brighter future.
 
 As we look to the year ahead, I feel hopeful and excited. Even though challenges remain, I believe God is doing great things through Spur Afrika. Hope is growing, lives are being changed, and the future is full of possibility.
@@ -128,11 +145,29 @@ As we look to the year ahead, I feel hopeful and excited. Even though challenges
 
 This marks my third year as Treasurer for Spur Afrika, and if there is one consistent theme that has defined my time in this role, it is the incredible resilience of this organization. As we navigated FY25, the compounding external pressures we anticipated last year materialized, yet the strength, adaptability, and faith of our teams in both Australia and Kenya continued to carry our mission forward.
 
+```{=latex}
+\begin{wrapfigure}{r}{0.5\linewidth}
+\centering
+\vspace{-1em}
+\includegraphics[width=\linewidth]{images/2025 Annual Oral Hygiene.jpg}
+\caption*{\footnotesize Promoting oral hygiene}
+\vspace{-2em}
+\end{wrapfigure}
+```
+
 As flagged in my FY24 report, the AUD to KES exchange rate remained volatile. After starting the financial year at around 1 AUD = 85 KES, the rate declined  by nearly 10% in the fourth quarter, dropping to 1 AUD = 77 KES. This creates additional fundraising pressure just to maintain the same level of on-the-ground support in Kenya.
 
 Simultaneously, we saw the unfortunate reality of USAID funding cuts take effect early in the second half of the year. These cuts severely impacted the flow of donations into non-governmental organisations (NGOs) across Kenya, creating negative knock-on effects that were deeply felt throughout the local community. Consequently, local fundraising became incredibly challenging, and the Kenyan team was only able to raise KES 512k against an ambitious original target of KES 1.5m.
 
 Yet, it is precisely in these moments of tightening constraints that the true spirit of Spur Afrika shines. Despite the dual challenges of a softening AUD and a severe local funding shortfall in Kenya, Spur Afrika Australia held the line. Through the continued generosity of our supporters, we successfully fundraised \$290k here in Australia, allowing us to sustain our financial commitments and transfer $285k to Kenya over the year. Furthermore, because we remain a fully volunteer-run organization, I am proud that our administrative costs were just 1.2% of our total cost base, ensuring that virtually all funds raised flowed directly to Kenya where they are needed most.
+
+```{=latex}
+\begin{figure}[h]
+\centering
+\includegraphics[width=\linewidth]{images/2025 Annual BAM Class Session.jpg}
+\caption*{\footnotesize "Business as a Mission (BAM)" education}
+\end{figure}
+```
 
 Because of this steadfast support and financial stewardship, our Kenyan team was able to deliver all core programs without interruption. We also welcomed an additional 10 children and their sponsors into the program during the second half of the year.
 
@@ -144,7 +179,8 @@ As we look ahead to FY26, the same external macroeconomic forces and global unce
 
 2025 has been a year that checked in and flew by, we are grateful for a largely successful year. We remain committed and to our vision of creating sustainable futures for the children and communities in our various programs.
 
-### Staff 
+### Staff
+
 Kibera -- 8 Team Members: the general health of the team is good. There has been good execution and management of the programs. The team’s relationship with each other has improved this year, this can be attributed to the support given to the members.
 
 Unfortunately, due to budgetary constraints and increase in costs, we were unable to have the end of year retreat as has been the norm. The team however received a boosted bonus that was welcome and appreciated.
@@ -152,6 +188,17 @@ Unfortunately, due to budgetary constraints and increase in costs, we were unabl
 ### Kibera
 
 #### Elimisha Program
+
+```{=latex}
+\begin{wrapfigure}{r}{0.4\linewidth}
+\centering
+\vspace{-1em}
+\includegraphics[width=\linewidth]{images/2025 Annual Homevisit with a Mentor.jpg}
+\caption*{\footnotesize Home visit with a mentor}
+\vspace{-3em}
+\end{wrapfigure}
+```
+
 In 2025 there were a total of 120 children in the Spur Afrika Elimisha (Children) Program.
 
 - 2 Students graduated from College & University in December 2025
@@ -160,11 +207,21 @@ In 2025 there were a total of 120 children in the Spur Afrika Elimisha (Children
 
 Most children are keeping well at school and home. There have been no major indiscipline cases except for two children who are being followed up. They are slowly improving.
 
+```{=latex}
+\begin{wrapfigure}{r}{0.4\linewidth}
+\centering
+\vspace{-1em}
+\includegraphics[width=\linewidth]{images/2025 Annual Coding Session 2.jpg}
+\caption*{\footnotesize Coding session}
+\vspace{-2em}
+\end{wrapfigure}
+```
+
 One of Elimisha Children, Rakamba, is talented in coding. He qualified to travel to China for a competition. He needed Shs. 200,000 which was successfully raised. He spent one week in China together with other learners and the facilitators of the Code with Kids program, a partner organization that teaches Spur children coding over the weekends and during school holidays. This was an exciting and encouragement to the other Spur learners as it showed them there are many opportunities in engaging in transformative programs. Rakamba’s school performance and confidence has greatly improved. He performed well in his Kenya certificate of Primary Education and is looking forward to join a good Secondary school.
 
 #### Mentorship 
 
-There are 58 committed mentors who continue to engage with their mentees through the year. Going forward, we are working on mentoring the Spur students who have graduated from college or University to themselves take up mentorship roles as part of keeping theSpur Alumni Community vibrant.
+There are 58 committed mentors who continue to engage with their mentees through the year. Going forward, we are working on mentoring the Spur students who have graduated from college or University to themselves take up mentorship roles as part of keeping the Spur Alumni Community vibrant.
 
 #### Social Health Insurance Fund (Formerly NHIF)
 
@@ -174,11 +231,29 @@ The new health system is still unreliable and has many challenges, such as highe
 
 The program is progressing well. We have four partner schools in the second half of the year with a reach of 400 hundred girls. Our highlight event was celebration of the International Day of the Girl child which was held in partnership with Endless Frontiers and Zana Africa. The fun filled event that was held on 10th October had 300 girls in attendance. We shared key lessons from this year’s theme on Leadership. All girls received three packs of sanitary towels and an undergarment.
 
+```{=latex}
+\begin{figure}[h]
+\centering
+\includegraphics[width=\linewidth]{images/2025 Annual Parents Meeting.jpg}
+\caption*{\footnotesize Parents Meeting}
+\end{figure}
+```
+
 #### Spur Centre
 
 The Spur Centre is in good working condition and the staff team and children are enjoying its use. Through support from some friends , we were able to replace the asbestos roof and do minor repairs to the ceiling. There have been no major damage to the space except the normal wear and tear.
 
 ### Kisumu 
+
+```{=latex}
+\begin{wrapfigure}{r}{0.5\linewidth}
+\centering
+\vspace{-1.5em}
+\includegraphics[width=\linewidth]{images/2025 Annual Kisumu.jpg}
+\caption*{\footnotesize Kisumu tuition}
+\vspace{-3.5em}
+\end{wrapfigure}
+```
 
 The Kisumu Office branch is steadily growing. There are two full time workers, Winfred and Nicole, who are in charge. Two other part-time workers are engaged during the school holidays. There is good perception about Spur. It is safe to report that there have not been any negative consequences following Andrew’s departure from the team. There is however need to keep reassuring the community on Spur Afrika’s commitment in continuing to carry out various projects in the area.
 
@@ -190,6 +265,16 @@ The Elimisha parents in Holo continue to be very committed in lending support to
 
 The Elimisha Program is going well. Two of the ladies who were to join college this year were not ready so they differed to 2026, as per the program policy, if they do not take up a course by May next year, we shall exit them from the program.
 
+```{=latex}
+\begin{wrapfigure}{r}{0.5\linewidth}
+\centering
+\vspace{-1em}
+\includegraphics[width=\linewidth]{images/2025 Annual Kisumu Games.jpg}
+\caption*{\footnotesize Games at Kisumu}
+\vspace{-2em}
+\end{wrapfigure}
+```
+
 The weekend mentorship program is going on well, the children are usually excited to come to the Centre. Apart from learning they get to play and share snacks. We sometimes engage volunteers to help Winfred and Nicole as the activity mostly takes place on Sunday afternoon.
 
 The teenage mothers program is a bit slow this last quarter. We are taking time to re-evaluate the program and have clearer objectives and target audience. The girls who had undergone training or capacity building this year shall finish their classes and be supported to enroll in a tertiary college if they would be interested to learn any apprentice skill.
@@ -200,15 +285,29 @@ The children have been falling sick with malaria regularly. To curb this, Spur A
 
 ### Financial Update
 
+```{=latex}
+\begin{wrapfigure}{r}{0.5\linewidth}
+\centering
+\vspace{-1.5em}
+\includegraphics[width=\linewidth]{images/2025 Annual Group Mentorship Session.jpg}
+\caption*{\footnotesize Group Mentorship Session}
+\vspace{-2em}
+\end{wrapfigure}
+```
+
 Local fundraising is slow compared to what we had projected. We have so far raised Shs. 512,000 against an annual target of about Shs. 1,500,000. We have had to have an extra transfer of Shs. 700,000 from Australia to help bridge the gap. 
 
 All the core programs were fully executed. We look forward to have more strategies of local fundraising in 2026.
 
 We are grateful for the unwavering support we continue to receive from Spur Australia Board and the operations team. We are able to transform the lives of our communities through this partnership. 
 
-## Editor
-
-Dr. David Fong (Monitoring, Evaluation and Learning)
+```{=latex}
+\begin{figure}[h]
+\centering
+\includegraphics[width=\linewidth]{images/2025 Annual Coding Session.jpg}
+\caption*{\footnotesize Coding Session}
+\end{figure}
+```
 
 ## Contact
 
