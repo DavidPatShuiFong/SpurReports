@@ -1,0 +1,173 @@
+---
+title: "Mentorship"
+subtitle: "Monitoring & Evaluation, January to June 2026"
+author:
+  - name: Jael Kijala Orwa
+    affiliations:
+      - name: Spur Afrika Kenya
+        address: Olympic Estate House No. 166, P.O. Box 44473-00100
+        url: https://www.spurafrika.org
+format:
+  html:
+    theme: cosmo
+    toc: true
+  PrettyPDF-pdf:
+    papersize: a4
+    keep-tex: true
+---
+
+```{=latex}
+\fancypagestyle{myCoverStyle}{
+  \fancyhf{}
+  \renewcommand\headrulewidth{0pt}
+  \fancyfoot[R]{\thepage}
+  \fancyfoot[C]{\em{Cover picture : Mentor-mentee picnic hangout}}
+  \fancyfootoffset{3.5cm}
+}
+\thispagestyle{myCoverStyle}
+% the default style is defined in _extensions/nrennie/PrettyPDF/PrettyPDF.tex
+% and then set in _extensions/.../pagestyle.tex
+% however, for the very first page we want to describe what is in the cover page
+```
+
+## Introduction
+
+The Mentorship Program is a core pillar of Spur Afrika's Child Sponsorship (Elimisha) Program, designed to support the holistic development of 172 sponsored children through structured one-on-one, group and peer-led mentorship, delivered with the help of 78 volunteer Spur mentors. Growing up in informal settlements, many children face challenges that extend far beyond limited access to education: exposure to poverty, negative peer influence, a lack of positive role models and limited awareness of future opportunities can hinder their social, emotional and personal development, leaving them vulnerable to cycles of poverty.
+
+Recognizing the need for guidance and meaningful support, the Mentorship Program ensures that sponsored children receive more than educational assistance — they gain trusted relationships that nurture their holistic growth. Through carefully designed group sessions and one-on-one engagements with dedicated adult mentors, children are equipped with essential social skills while broadening their understanding of education, career pathways, leadership and spiritual growth.
+
+![One-on-one mentorship at the Spur Afrika Centre](images/2026H1%20Mentorship%20OneOnOne%20InPerson.jpg){fig-align="center"}
+
+The first half of 2026 was an active period of impact and transformation in the program, with visible growth among both mentees and mentors, and increased commitment in mentors' engagement with their mentees.
+
+## One-on-One Mentorship Sessions
+
+### Activities and Output
+
+**38 mentors** had one-on-one sessions with their mentees; most of the mentorship meetings were held during the school break in April at the Spur Centre. A further **10 online mentorship sessions** were held in the same period.
+
+![Online one-on-one mentorship session](images/2026H1%20Mentorship%20Online%20OneOnOne.jpg){fig-align="center"}
+
+### Outcomes and Impact
+
+- Improved communication flow and relationships between mentors and mentees.
+- Children have embraced mentorship and now take the lead in requesting mentorship sessions ahead of their mentor's request.
+- Mentors are open to taking on more mentees, especially those whose mentees are in boarding school.
+
+## Group Mentorship
+
+### Activities and Output
+
+Group mentorship has seen a surge in the first half of this year, with four meetings that gave a mentorship chance to children without individual mentors.
+
+Spur Afrika staff hosted two mentorship sessions to empower the girls on the topics of Menstrual Hygiene and Personal Development, in partnership with NIA (a sanitary towel manufacturing company). All the girls in attendance received care packs (sanitary towels and undergarments).
+
+The team also facilitated two online mentorship sessions between Kibera and Kisumu sponsored children.
+
+![Nairobi–Kisumu joint mentorship session](images/2026H1%20Mentorship%20Kisumu%20Nairobi.jpg){fig-align="center"}
+
+![Associate/peer mentorship session](images/2026H1%20Mentorship%20Peer.jpg){fig-align="center"}
+
+### Outcomes and Impact
+
+- 5 group mentorship sessions were conducted between January and June.
+- There is noted improvement in the personal hygiene of children, following the Menstrual Hygiene and Personal Development sessions.
+- Increased accountability and personal responsibility among the children; older children can organize themselves with activities such as group mentorship and peer-led tuition sessions.
+- Improved confidence and interaction among the children in school and during retreats.
+
+## Career Mentorship
+
+### Activities and Output
+
+Each year, sponsored children transitioning from high school to campus and colleges are engaged in a transitional program of knowledge empowerment, in preparation for joining higher learning institutions. This program's main objective is to build the capacity of the students to help them make informed choices as they access a new level of independence as young adults.
+
+![Career mentorship session with sponsored children preparing to join college/university](images/2026H1%20Mentorship%20Career.jpg){fig-align="center"}
+
+The team led a career mentorship session targeting college and university graduates. Some of the skills shared included scholarship application, career mapping and vision setting.
+
+### Outcomes and Impact
+
+- There is an increase in peer mentorship between college students and children in lower grades and primary school.
+- Leadership growth is apparent among older Spur Learners who have graduated from college/university; 5 of the older boys currently in college/university have shown good leadership skills and take part in mentoring the younger boys in the sponsorship program.
+- Children advancing to higher learning are showing initiative by making informed choices in terms of schools to attend and career paths to pursue.
+
+## Mentorship Through Sports – Football Forward
+
+Football Forward is a sports initiative geared towards empowering our children and children in the community through the language of sports.
+
+### Activities and Output
+
+The initiative saw four partner schools engage in a friendly tournament, where the schools competed and won trophies.
+
+![Football Forward mentorship through sports](images/2026H1%20Mentorship%20Football%20Forward.jpg){fig-align="center"}
+
+The session doubled as a mentorship platform: at the end of the competition, participants shared a meal and received a mentorship session focusing on building virtues over vices. The session was facilitated by Spur Afrika team members, and the partners of the day shared on talent and responsibility.
+
+### Outcomes and Impact
+
+The tournament strengthened Spur Afrika's partnerships with the four participating schools and reinforced the program's focus on building virtues over vices, using sports as a relatable platform for mentorship among the children involved.
+
+## Conversations and Canvas: Mental Wellness Sessions for Mentors
+
+Our mentors are very active in walking with our children and are deserving of a mental wellness break; this is what Conversations and Canvas was tailored for.
+
+### Activities and Output
+
+- This initiative gives mentors a chance to relax, unwind and hold meaningful conversations while painting on canvas, alongside engaging and relaxing activities such as friendly competition games.
+- 40 mentors attended the Conversations and Canvas mentors' meet-up in June.
+
+![Mentors' check-in during a Conversations and Canvas meet-up](images/2026H1%20Mentorship%20Canvas%20Conversations.jpg){fig-align="center"}
+
+### Outcomes and Impact
+
+- Mentors gave positive feedback on the mental wellness activities, pointing out that they were motivated to push on, and that they feel appreciated and motivated to continue journeying with Spur children.
+
+## Mentors Training and Picnic
+
+### Activities and Output
+
+The first half of the year strengthened the foundation of our mentorship community by investing in the people who invest in our children. We began with our annual mentors' training, which equipped 35 volunteer mentors with practical mentorship skills and deeper insights into building sustainable relationships with their mentees. Three of our long-serving mentors took the new mentors through the sessions, in an interactive time of learning through lived mentor experience.
+
+![Mentors training in January 2026](images/2026H1%20Mentorship%20Mentors%20Training.jpg){fig-align="center"}
+
+In addition, we held our annual mentor-mentee picnic hangout in April, where sponsored children and mentors connected through games, laughter and learning under the theme "Shine Your Light."
+
+![Mentor-mentee picnic hangout](images/2026H1%20Mentorship%20Picnic.jpg){fig-align="center"}
+
+### Outcomes and Impact
+
+- 60 mentors attended the mentors' training in January.
+- Mentors appreciate Spur Afrika's efforts in empowering them through regular training and meet-ups such as the picnic, contributing to sustained motivation and commitment to the program.
+
+## Challenges faced in the last six months
+
+- There are more learners in boarding school, which has affected some of the regular mentorship sessions that used to happen over the weekends.
+- Personal life events such as loss of jobs and relocation have disrupted some mentor-mentee pairings.
+- Mentors continue to balance work and volunteering as a mentor.
+
+## Budget update
+
+The mentorship program costs for January to June were Shs. 452,000 (about AUD 5,300). This amount covers the cost of the mentorship activities carried out in the reporting period and the salary of one Spur Afrika staff member.
+
+The budget for the next six months is projected at about AUD 4,000. This amount shall cover two mentor activities and pay for the mentorship coordinator.
+
+## Plans for July to December 2026
+
+- Improve peer/associate mentorship among learners in college/university by building their capacity to be mentors to the younger sponsored children.
+- Engage in mentor hangout and bonding activities to help new mentors adjust well (regular check-in phone calls, mentors picnic).
+- Actively recruit more mentors, with key focus on male mentors.
+- Invite more professionals to help in the career development and mapping stage for learners waiting to join college/university.
+
+## Editor
+
+Dr. David Fong (Monitoring, Evaluation and Learning)
+
+## Contact
+
+Olympic Estate House No. 166
+
+P.O. Box 44473-00100
+
+Email: info\@spurafrika.org
+
+Web: [www.spurafrika.org](https://www.spurafrika.org)
